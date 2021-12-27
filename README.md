@@ -10,7 +10,7 @@
 + [X] Russe
 + [X] Portugais
 + [X] Suédois
-+ [ ] Slovaque
++ [X] Slovaque
 + [ ] Slovènes
 + [ ] Roumain
 + [ ] Danois
