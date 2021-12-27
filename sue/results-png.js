@@ -1,12 +1,6 @@
 
 function init_results() {
 
-  if ($.i18n().locale == "fr") {
-    var resultsUrl = location.href.replace(window.location.hostname+"/politiscales", "politiscales.fr").replace(window.location.hostname, "politiscales.fr");
-  } else {
-    var resultsUrl = location.href.replace(window.location.hostname+"/politiscales", "politiscales.party").replace(window.location.hostname, "politiscales.party");
-  }
-
   var bonusEnabled = true;
 
   if (!bonusEnabled) {
