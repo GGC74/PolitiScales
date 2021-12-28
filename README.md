@@ -11,7 +11,7 @@
 + [X] Portugais
 + [X] Suédois
 + [X] Slovaque
-+ [ ] Slovènes
++ [X] Slovènes
 + [ ] Roumain
 + [ ] Danois
 
