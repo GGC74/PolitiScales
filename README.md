@@ -1,4 +1,4 @@
-# https://GGC74.github.io/PolitiScales/
+# http://politiscales.rf.gd/
 
 ### Traduction en plus de la langue d'origine :
 + [X] Anglais
