@@ -12,7 +12,7 @@
 + [X] Suédois
 + [X] Slovaque
 + [X] Slovènes
-+ [ ] Roumain
++ [X] Roumain
 + [ ] Danois
 
 ### Questions à ajouter :
