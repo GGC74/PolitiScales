@@ -454,3 +454,8 @@ h2
 	padding-top: 3vmin;
 	font-size: 4.3vmin;
 }
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
