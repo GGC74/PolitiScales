@@ -13,9 +13,12 @@
 + [X] Slovaque
 + [X] Slovènes
 + [X] Roumain
-+ [ ] Danois
++ [X] Danois
 
 ### Questions à ajouter :
 + [ ] Laïque
 + [ ] impérialiste
 + [ ] Surveillance de masse
+
+### Choses à channger :
++ [ ] Améliorer la page d'accueil
