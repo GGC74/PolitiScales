@@ -103,7 +103,7 @@ h2
 
 .simpleText
 {
-	text-align: justify;
+	text-align: center;
 	text-justify: inter-word;
 	font-size: 2vmin;
 	padding-left:2vmin;
@@ -414,32 +414,6 @@ h2
 {
 	color: #00aced;
 }
-
-}
-.buttonLink
-{
-	background-color: #500076;
-	color: white;
-	width: calc(25% - 0.5vmin);
-	margin-left: 0.5vmin;
-}
-.buttonLink:hover
-{
-	color: #500076;
-}
-.buttonLinkGood
-{
-	background-color: #0EB31A;
-	color: white;
-	width: calc(25% - 0.5vmin);
-	margin-left: 0.5vmin;
-}
-.buttonLinkGood:hover
-{
-	background-color: #0EB31A;
-	color: white;
-}
-
 .flagDecoration
 {
 	text-align:center;

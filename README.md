@@ -19,6 +19,7 @@
 + [ ] Laïque
 + [ ] impérialiste
 + [ ] Surveillance de masse
++ [ ] Résistance
 
 ### Choses à channger :
 + [ ] Améliorer la page d'accueil
