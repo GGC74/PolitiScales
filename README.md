@@ -18,7 +18,6 @@
 ### Questions à ajouter :
 + [ ] Laïque
 + [ ] impérialiste
-+ [ ] Surveillance de masse
 + [ ] Résistance
 
 ### Choses à channger :

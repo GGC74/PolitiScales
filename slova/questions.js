@@ -1886,5 +1886,38 @@ questions = [
 			}
 		],
 		valuesNo: []
+	},
+	{
+		question: "Náboženstvá musia rešpektovať slobodu svedomia, nesmú narúšať verejný poriadok a musia byť oddelené od verejných inštitúcií.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "laic",
+				value: 3
+			}
+		],
+		valuesNo: []
+	},
+	{
+		question: "Ostatné krajiny musia byť závislé od mojej krajiny.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "impe",
+				value: 3
+			}
+		],
+		valuesNo: []
+	},
+	{
+		question: "Ak je moja krajina pod okupáciou, v ťažkostiach alebo má problém, je mojou povinnosťou zapojiť sa do riešenia tohto problému.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "resi",
+				value: 3
+			}
+		],
+		valuesNo: []
 	}
 ];

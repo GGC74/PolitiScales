@@ -1886,5 +1886,38 @@ questions = [
 			}
 		],
 		valuesNo: []
+	},
+	{
+		question: "Las religiones deben respetar la libertad de conciencia, no deben perturbar el orden público y deben estar separadas de las instituciones públicas.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "laic",
+				value: 3
+			}
+		],
+		valuesNo: []
+	},
+	{
+		question: "Otros países deben depender de mi país.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "impe",
+				value: 3
+			}
+		],
+		valuesNo: []
+	},
+	{
+		question: "Si mi país está bajo ocupación, tiene problemas o tiene un problema, es mi deber involucrarme en ese problema.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "resi",
+				value: 3
+			}
+		],
+		valuesNo: []
 	}
 ];

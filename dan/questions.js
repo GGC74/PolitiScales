@@ -1886,5 +1886,38 @@ questions = [
 			}
 		],
 		valuesNo: []
+	},
+	{
+		question: "Religioner skal respektere samvittighedsfriheden, de må ikke forstyrre den offentlige orden, og de skal være adskilt fra offentlige institutioner.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "laic",
+				value: 3
+			}
+		],
+		valuesNo: []
+	},
+	{
+		question: "Andre lande skal være afhængige af mit land.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "impe",
+				value: 3
+			}
+		],
+		valuesNo: []
+	},
+	{
+		question: "Hvis mit land er besat, er i problemer eller har et problem, er det min pligt at engagere mig i problemet.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "resi",
+				value: 3
+			}
+		],
+		valuesNo: []
 	}
 ];

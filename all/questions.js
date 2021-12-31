@@ -1886,5 +1886,38 @@ questions = [
 			}
 		],
 		valuesNo: []
+	},
+	{
+		question: "Religionen müssen die Gewissensfreiheit respektieren, dürfen die öffentliche Ordnung nicht stören und müssen von öffentlichen Einrichtungen getrennt sein.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "laic",
+				value: 3
+			}
+		],
+		valuesNo: []
+	},
+	{
+		question: "Andere Länder müssen von meinem Land abhängig sein.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "impe",
+				value: 3
+			}
+		],
+		valuesNo: []
+	},
+	{
+		question: "Wenn mein Land besetzt ist, sich in Schwierigkeiten befindet oder ein Problem hat, ist es meine Pflicht, mich an diesem Problem zu beteiligen.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "resi",
+				value: 3
+			}
+		],
+		valuesNo: []
 	}
 ];

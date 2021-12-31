@@ -1886,5 +1886,38 @@ questions = [
 			}
 		],
 		valuesNo: []
+	},
+	{
+		question: "Religiile trebuie să respecte libertatea de conștiință, să nu tulbure ordinea publică și să fie separate de instituțiile publice.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "laic",
+				value: 3
+			}
+		],
+		valuesNo: []
+	},
+	{
+		question: "Alte țări trebuie să fie dependente de țara mea.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "impe",
+				value: 3
+			}
+		],
+		valuesNo: []
+	},
+	{
+		question: "Dacă țara mea este sub ocupație, are probleme sau are o problemă, este de datoria mea să mă implic în acea problemă.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "resi",
+				value: 3
+			}
+		],
+		valuesNo: []
 	}
 ];

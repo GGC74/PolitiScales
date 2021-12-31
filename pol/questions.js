@@ -1886,5 +1886,38 @@ questions = [
 			}
 		],
 		valuesNo: []
+	},
+	{
+		question: "Religie muszą respektować wolność sumienia, nie mogą zakłócać porządku publicznego i muszą być oddzielone od instytucji publicznych.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "laic",
+				value: 3
+			}
+		],
+		valuesNo: []
+	},
+	{
+		question: "Inne kraje muszą być zależne od mojego kraju.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "impe",
+				value: 3
+			}
+		],
+		valuesNo: []
+	},
+	{
+		question: "Jeśli mój kraj jest pod okupacją, ma kłopoty lub ma problem, moim obowiązkiem jest zaangażowanie się w ten problem.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "resi",
+				value: 3
+			}
+		],
+		valuesNo: []
 	}
 ];
