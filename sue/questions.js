@@ -1,6 +1,6 @@
 questions = [
 
-	/* ESSENTIALISME ************************************************ */
+	/* ESSENTIALISME ********************************************************** */
 	{
 		question: "« Man föds inte som kvinna, man blir det ».",
 		answer: 0,
@@ -245,7 +245,7 @@ questions = [
 			}
 		]
 	},
-    /* NATIONALISME ************************************************* */
+    /* NATIONALISME *********************************************************** */
 	{
 		question: "På lång sikt måste gränserna tas bort.",
 		answer: 0,
@@ -470,7 +470,7 @@ questions = [
 			}
 		]
 	},
-    /* PRODUCTION *************************************************** */
+    /* PRODUCTION ************************************************************* */
 	{
 		question: "Ingen får berikas genom att äga ett företag, en bostad eller mark.",
 		answer: 0,
@@ -695,7 +695,7 @@ questions = [
 			}
 		]
 	},
-    /* MARKET ******************************************************* */
+    /* MARCHE ***************************************************************** */
 	{
 		question: "Inkomst och kapital måste beskattas för att omfördela välståndet.",
 		answer: 0,
@@ -920,7 +920,7 @@ questions = [
 			}
 		]
 	},
-    /* SOCIETE ****************************************************** */
+    /* SOCIETE **************************************************************** */
 	{
 		question: "Varje tradition måste kunna ifrågasättas.",
 		answer: 0,
@@ -1161,7 +1161,7 @@ questions = [
 			}
 		]
 	},
-    /* ECOLOGIE ***************************************************** */
+    /* ECOLOGIE *************************************************************** */
 	{
 		question: "Det är inte acceptabelt att mänskliga åtgärder leder till att arter dör ut.",
 		answer: 0,
@@ -1386,7 +1386,7 @@ questions = [
 			}
 		]
 	},
-    /* LIBERTAIRE *************************************************** */
+    /* LIBERTAIRE ************************************************************* */
 	{
 		question: "Fängelserna måste avskaffas.",
 		answer: 0,
@@ -1595,7 +1595,7 @@ questions = [
 			}
 		]
 	},
-    /* STRATEGIE **************************************************** */
+    /* STRATEGIE ************************************************************** */
 	{
 		question: "Generalstrejken är ett bra sätt att få nya rättigheter.",
 		answer: 0,
@@ -1820,7 +1820,7 @@ questions = [
 			}
 		]
 	},
-    /* BONUS ******************************************************** */
+    /* BONUS ****************************************************************** */
 	{
 		question: "Min religion måste spridas så mycket som möjligt.",
 		answer: 0,
@@ -1921,3 +1921,4 @@ questions = [
 		valuesNo: []
 	}
 ];
+/* 050706 */

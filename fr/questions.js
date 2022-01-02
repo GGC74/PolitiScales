@@ -1,6 +1,6 @@
 questions = [
 
-	/* ESSENTIALISME ************************************************ */
+	/* ESSENTIALISME ********************************************************** */
 	{
 		question: "« On ne naît pas femme, on le devient ».",
 		answer: 0,
@@ -245,7 +245,7 @@ questions = [
 			}
 		]
 	},
-    /* NATIONALISME ************************************************* */
+    /* NATIONALISME *********************************************************** */
 	{
 		question: "À terme, les frontières doivent être supprimées.",
 		answer: 0,
@@ -470,7 +470,7 @@ questions = [
 			}
 		]
 	},
-    /* PRODUCTION *************************************************** */
+    /* PRODUCTION ************************************************************* */
 	{
 		question: "Nul ne doit s'enrichir par le fait de posséder une entreprise, un logement ou un terrain.",
 		answer: 0,
@@ -695,7 +695,7 @@ questions = [
 			}
 		]
 	},
-    /* MARKET ******************************************************* */
+    /* MARCHE ***************************************************************** */
 	{
 		question: "Il faut taxer les revenus et le capital pour redistribuer les richesses.",
 		answer: 0,
@@ -920,7 +920,7 @@ questions = [
 			}
 		]
 	},
-    /* SOCIETE ****************************************************** */
+    /* SOCIETE **************************************************************** */
 	{
 		question: "Toute tradition doit pouvoir être remise en question.",
 		answer: 0,
@@ -1161,7 +1161,7 @@ questions = [
 			}
 		]
 	},
-    /* ECOLOGIE ***************************************************** */
+    /* ECOLOGIE *************************************************************** */
 	{
 		question: "Il n’est pas acceptable que les actions humaines entraînent des extinctions d’espèces.",
 		answer: 0,
@@ -1386,7 +1386,7 @@ questions = [
 			}
 		]
 	},
-    /* LIBERTAIRE *************************************************** */
+    /* LIBERTAIRE ************************************************************* */
 	{
 		question: "Les prisons doivent être supprimées.",
 		answer: 0,
@@ -1595,7 +1595,7 @@ questions = [
 			}
 		]
 	},
-    /* STRATEGIE **************************************************** */
+    /* STRATEGIE ************************************************************** */
 	{
 		question: "La grève générale est une bonne façon d’obtenir de nouveaux droits.",
 		answer: 0,
@@ -1820,7 +1820,7 @@ questions = [
 			}
 		]
 	},
-    /* BONUS ******************************************************** */
+    /* BONUS ****************************************************************** */
 	{
 		question: "Ma religion doit se diffuser le plus largement possible.",
 		answer: 0,
@@ -1921,3 +1921,4 @@ questions = [
 		valuesNo: []
 	}
 ];
+/* 050706 */

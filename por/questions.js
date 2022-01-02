@@ -1,6 +1,6 @@
 questions = [
 
-	/* ESSENTIALISME ************************************************ */
+	/* ESSENTIALISME ********************************************************** */
 	{
 		question: "« Não se nasce mulher, torna-se mulher ».",
 		answer: 0,
@@ -245,7 +245,7 @@ questions = [
 			}
 		]
 	},
-    /* NATIONALISME ************************************************* */
+    /* NATIONALISME *********************************************************** */
 	{
 		question: "A longo prazo, as fronteiras devem ser removidas.",
 		answer: 0,
@@ -470,7 +470,7 @@ questions = [
 			}
 		]
 	},
-    /* PRODUCTION *************************************************** */
+    /* PRODUCTION ************************************************************* */
 	{
 		question: "Ninguém deve enriquecer sendo proprietário de um negócio, de uma casa ou de uma terra.",
 		answer: 0,
@@ -695,7 +695,7 @@ questions = [
 			}
 		]
 	},
-    /* MARKET ******************************************************* */
+    /* MARCHE ***************************************************************** */
 	{
 		question: "O rendimento e o capital devem ser tributados para redistribuir a riqueza.",
 		answer: 0,
@@ -920,7 +920,7 @@ questions = [
 			}
 		]
 	},
-    /* SOCIETE ****************************************************** */
+    /* SOCIETE **************************************************************** */
 	{
 		question: "Qualquer tradição deve estar aberta ao questionamento.",
 		answer: 0,
@@ -1161,7 +1161,7 @@ questions = [
 			}
 		]
 	},
-    /* ECOLOGIE ***************************************************** */
+    /* ECOLOGIE *************************************************************** */
 	{
 		question: "Não é aceitável que as acções humanas conduzam à extinção de espécies.",
 		answer: 0,
@@ -1386,7 +1386,7 @@ questions = [
 			}
 		]
 	},
-    /* LIBERTAIRE *************************************************** */
+    /* LIBERTAIRE ************************************************************* */
 	{
 		question: "As prisões devem ser abolidas.",
 		answer: 0,
@@ -1595,7 +1595,7 @@ questions = [
 			}
 		]
 	},
-    /* STRATEGIE **************************************************** */
+    /* STRATEGIE ************************************************************** */
 	{
 		question: "A greve geral é uma boa forma de obter novos direitos.",
 		answer: 0,
@@ -1820,7 +1820,7 @@ questions = [
 			}
 		]
 	},
-    /* BONUS ******************************************************** */
+    /* BONUS ****************************************************************** */
 	{
 		question: "A minha religião deve ser difundida o mais amplamente possível.",
 		answer: 0,
@@ -1921,3 +1921,4 @@ questions = [
 		valuesNo: []
 	}
 ];
+/* 050706 */

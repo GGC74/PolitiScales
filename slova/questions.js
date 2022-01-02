@@ -1,6 +1,6 @@
 questions = [
 
-	/* ESSENTIALISME ************************************************ */
+	/* ESSENTIALISME ********************************************************** */
 	{
 		question: "« Ženou sa človek nerodí, ale stáva sa ňou ».",
 		answer: 0,
@@ -245,7 +245,7 @@ questions = [
 			}
 		]
 	},
-    /* NATIONALISME ************************************************* */
+    /* NATIONALISME *********************************************************** */
 	{
 		question: "Z dlhodobého hľadiska je potrebné odstrániť hranice.",
 		answer: 0,
@@ -470,7 +470,7 @@ questions = [
 			}
 		]
 	},
-    /* PRODUCTION *************************************************** */
+    /* PRODUCTION ************************************************************* */
 	{
 		question: "Nikto by nemal zbohatnúť na vlastníctve podniku, domu alebo pozemku.",
 		answer: 0,
@@ -695,7 +695,7 @@ questions = [
 			}
 		]
 	},
-    /* MARKET ******************************************************* */
+    /* MARCHE ***************************************************************** */
 	{
 		question: "Na prerozdelenie bohatstva je potrebné zdaňovať príjmy a kapitál.",
 		answer: 0,
@@ -920,7 +920,7 @@ questions = [
 			}
 		]
 	},
-    /* SOCIETE ****************************************************** */
+    /* SOCIETE **************************************************************** */
 	{
 		question: "Každá tradícia musí byť otvorená spochybneniu.",
 		answer: 0,
@@ -1161,7 +1161,7 @@ questions = [
 			}
 		]
 	},
-    /* ECOLOGIE ***************************************************** */
+    /* ECOLOGIE *************************************************************** */
 	{
 		question: "Je neprijateľné, aby ľudské aktivity viedli k vymieraniu druhov.",
 		answer: 0,
@@ -1386,7 +1386,7 @@ questions = [
 			}
 		]
 	},
-    /* LIBERTAIRE *************************************************** */
+    /* LIBERTAIRE ************************************************************* */
 	{
 		question: "Väznice sa musia zrušiť.",
 		answer: 0,
@@ -1595,7 +1595,7 @@ questions = [
 			}
 		]
 	},
-    /* STRATEGIE **************************************************** */
+    /* STRATEGIE ************************************************************** */
 	{
 		question: "Generálny štrajk je dobrý spôsob, ako získať nové práva.",
 		answer: 0,
@@ -1820,7 +1820,7 @@ questions = [
 			}
 		]
 	},
-    /* BONUS ******************************************************** */
+    /* BONUS ****************************************************************** */
 	{
 		question: "Moje náboženstvo sa musí rozšíriť čo najviac.",
 		answer: 0,
@@ -1921,3 +1921,4 @@ questions = [
 		valuesNo: []
 	}
 ];
+/* 050706 */
