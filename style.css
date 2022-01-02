@@ -398,6 +398,7 @@ h2
 {
 	background-color: white;
 	color: #500076;
+    transition: all 1s;
 }
 
 .button
