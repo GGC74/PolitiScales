@@ -398,7 +398,6 @@ h2
 {
 	background-color: white;
 	color: #500076;
-    transition: all 1s;
 }
 
 .button
@@ -412,9 +411,6 @@ h2
 	color: white;
 }
 
-{
-	color: #00aced;
-}
 .flagDecoration
 {
 	text-align:center;
@@ -432,5 +428,5 @@ h2
 img {
     max-width: 100%;
     height: auto;
-    display: block;
 }
+/050706/
