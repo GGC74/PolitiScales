@@ -1,6 +1,6 @@
 questions = [
 
-	/* ESSENTIALISME ********************************************************** */
+	/* ESSENTIALISME ******************************************************************** */
 	{
 		question: "« Man wird nicht als Frau geboren, man wird es ».",
 		answer: 0,
@@ -245,7 +245,7 @@ questions = [
 			}
 		]
 	},
-    /* NATIONALISME *********************************************************** */
+    /* NATIONALISME ********************************************************************* */
 	{
 		question: "Langfristig sollten die Grenzen abgeschafft werden.",
 		answer: 0,
@@ -470,7 +470,7 @@ questions = [
 			}
 		]
 	},
-    /* PRODUCTION ************************************************************* */
+    /* PRODUCTION *********************************************************************** */
 	{
 		question: "Niemand darf sich durch den Besitz eines Unternehmens, einer Wohnung oder eines Grundstücks bereichern.",
 		answer: 0,
@@ -695,7 +695,7 @@ questions = [
 			}
 		]
 	},
-    /* MARCHE ***************************************************************** */
+    /* MARCHE *************************************************************************** */
 	{
 		question: "Einkommen und Kapital müssen besteuert werden, um den Wohlstand umzuverteilen.",
 		answer: 0,
@@ -920,7 +920,7 @@ questions = [
 			}
 		]
 	},
-    /* SOCIETE **************************************************************** */
+    /* SOCIETE ************************************************************************** */
 	{
 		question: "Jede Tradition muss in Frage gestellt werden können.",
 		answer: 0,
@@ -1161,7 +1161,7 @@ questions = [
 			}
 		]
 	},
-    /* ECOLOGIE *************************************************************** */
+    /* ECOLOGIE ************************************************************************* */
 	{
 		question: "Es ist nicht hinnehmbar, dass menschliches Handeln zum Aussterben von Arten führt.",
 		answer: 0,
@@ -1386,7 +1386,7 @@ questions = [
 			}
 		]
 	},
-    /* LIBERTAIRE ************************************************************* */
+    /* LIBERTAIRE *********************************************************************** */
 	{
 		question: "Gefängnisse müssen abgeschafft werden.",
 		answer: 0,
@@ -1595,7 +1595,7 @@ questions = [
 			}
 		]
 	},
-    /* STRATEGIE ************************************************************** */
+    /* STRATEGIE ************************************************************************ */
 	{
 		question: "Ein Generalstreik ist ein guter Weg, um neue Rechte zu erlangen.",
 		answer: 0,
@@ -1820,7 +1820,7 @@ questions = [
 			}
 		]
 	},
-    /* BONUS ****************************************************************** */
+    /* BONUS **************************************************************************** */
 	{
 		question: "Meine Religion muss sich so weit wie möglich verbreiten.",
 		answer: 0,

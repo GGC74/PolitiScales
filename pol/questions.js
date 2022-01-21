@@ -1,6 +1,6 @@
 questions = [
 
-	/* ESSENTIALISME ********************************************************** */
+	/* ESSENTIALISME ******************************************************************** */
 	{
 		question: "« Nie rodzi się kobietą, tylko się nią staje ».",
 		answer: 0,
@@ -245,7 +245,7 @@ questions = [
 			}
 		]
 	},
-    /* NATIONALISME *********************************************************** */
+    /* NATIONALISME ********************************************************************* */
 	{
 		question: "Na dłuższą metę granice muszą zostać usunięte.",
 		answer: 0,
@@ -470,7 +470,7 @@ questions = [
 			}
 		]
 	},
-    /* PRODUCTION ************************************************************* */
+    /* PRODUCTION *********************************************************************** */
 	{
 		question: "Nikt nie powinien wzbogacić się na posiadaniu firmy, domu czy ziemi.",
 		answer: 0,
@@ -695,7 +695,7 @@ questions = [
 			}
 		]
 	},
-    /* MARCHE ***************************************************************** */
+    /* MARCHE *************************************************************************** */
 	{
 		question: "Dochód i kapitał muszą być opodatkowane w celu redystrybucji bogactwa.",
 		answer: 0,
@@ -920,7 +920,7 @@ questions = [
 			}
 		]
 	},
-    /* SOCIETE **************************************************************** */
+    /* SOCIETE ************************************************************************** */
 	{
 		question: "Każda tradycja musi być otwarta na wyzwania.",
 		answer: 0,
@@ -1161,7 +1161,7 @@ questions = [
 			}
 		]
 	},
-    /* ECOLOGIE *************************************************************** */
+    /* ECOLOGIE ************************************************************************* */
 	{
 		question: "Niedopuszczalne jest, aby działania człowieka prowadziły do wyginięcia gatunków.",
 		answer: 0,
@@ -1386,7 +1386,7 @@ questions = [
 			}
 		]
 	},
-    /* LIBERTAIRE ************************************************************* */
+    /* LIBERTAIRE *********************************************************************** */
 	{
 		question: "Więzienia muszą zostać zlikwidowane.",
 		answer: 0,
@@ -1595,7 +1595,7 @@ questions = [
 			}
 		]
 	},
-    /* STRATEGIE ************************************************************** */
+    /* STRATEGIE ************************************************************************ */
 	{
 		question: "Strajk generalny jest dobrym sposobem na uzyskanie nowych praw.",
 		answer: 0,
@@ -1820,7 +1820,7 @@ questions = [
 			}
 		]
 	},
-    /* BONUS ****************************************************************** */
+    /* BONUS **************************************************************************** */
 	{
 		question: "Moja religia musi być rozpowszechniona tak szeroko, jak to tylko możliwe.",
 		answer: 0,

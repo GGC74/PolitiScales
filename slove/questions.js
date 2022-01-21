@@ -1,6 +1,6 @@
 questions = [
 
-	/* ESSENTIALISME ********************************************************** */
+	/* ESSENTIALISME ******************************************************************** */
 	{
 		question: "« Človek se ne rodi kot ženska, ampak to postane ».",
 		answer: 0,
@@ -245,7 +245,7 @@ questions = [
 			}
 		]
 	},
-    /* NATIONALISME *********************************************************** */
+    /* NATIONALISME ********************************************************************* */
 	{
 		question: "Dolgoročno je treba odstraniti meje.",
 		answer: 0,
@@ -470,7 +470,7 @@ questions = [
 			}
 		]
 	},
-    /* PRODUCTION ************************************************************* */
+    /* PRODUCTION *********************************************************************** */
 	{
 		question: "Nihče ne bi smel obogateti z lastništvom podjetja, hiše ali zemljišča.",
 		answer: 0,
@@ -695,7 +695,7 @@ questions = [
 			}
 		]
 	},
-    /* MARCHE ***************************************************************** */
+    /* MARCHE *************************************************************************** */
 	{
 		question: "Dohodek in kapital je treba obdavčiti, da bi prerazporedili bogastvo.",
 		answer: 0,
@@ -920,7 +920,7 @@ questions = [
 			}
 		]
 	},
-    /* SOCIETE **************************************************************** */
+    /* SOCIETE ************************************************************************** */
 	{
 		question: "Vsaka tradicija mora biti odprta za vprašanja.",
 		answer: 0,
@@ -1161,7 +1161,7 @@ questions = [
 			}
 		]
 	},
-    /* ECOLOGIE *************************************************************** */
+    /* ECOLOGIE ************************************************************************* */
 	{
 		question: "Nesprejemljivo je, da človek s svojimi dejanji povzroča izumiranje vrst.",
 		answer: 0,
@@ -1386,7 +1386,7 @@ questions = [
 			}
 		]
 	},
-    /* LIBERTAIRE ************************************************************* */
+    /* LIBERTAIRE *********************************************************************** */
 	{
 		question: "Zapore je treba ukiniti.",
 		answer: 0,
@@ -1595,7 +1595,7 @@ questions = [
 			}
 		]
 	},
-    /* STRATEGIE ************************************************************** */
+    /* STRATEGIE ************************************************************************ */
 	{
 		question: "Splošna stavka je dober način za pridobitev novih pravic.",
 		answer: 0,
@@ -1820,7 +1820,7 @@ questions = [
 			}
 		]
 	},
-    /* BONUS ****************************************************************** */
+    /* BONUS **************************************************************************** */
 	{
 		question: "Moja vera se mora čim bolj razširiti.",
 		answer: 0,

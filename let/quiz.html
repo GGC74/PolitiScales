@@ -3,15 +3,15 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-	<title>PolitiScales - Quiz</title>
+	<title>PolitiScales - Viktorīna</title>
 	<link rel="icon" type="image/png" sizes="16x16" href="../images/Politiscales-icone1.png">
 	<link rel="stylesheet" href="../style.css" type="text/css" media="screen" />
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<script type="application/javascript" src="questions.js"></script>
 	<meta property="og:title" content="PolitiScales quiz" />
-	<meta property="og:locale" content="fr_FR" />
-	<meta property="og:description" content="PolitiScales est un test politique utilisant 8 axes idéologiques pour vous aider à vos situer politiquement, ou simplement partager votre profil avec vos amis." />
+	<meta property="og:locale" content="lv" />
+	<meta property="og:description" content="PolitiScales ir politiskais tests, kas izmanto 8 ideoloģiskās asis, lai palīdzētu jums politiski orientēties vai vienkārši dalīties savā profilā ar draugiem." />
 
 </head>
 <body>
@@ -27,23 +27,23 @@
 <div id="content">
 	<div id="mainFrame">
 
-		<h2 id="question-number">Chargement...</h2>
+		<h2 id="question-number">Iekraušana...</h2>
 		<div class="questionBox">
 			<div>
-				<p id="question-text">Vous allez être confronté à une série d'affirmations. Pour chacune d'elles, cliquez sur le bouton correspondant à votre opinion.</p>
+				<p id="question-text">Jums tiks piedāvāti vairāki paziņojumi. Par katru no tiem noklikšķiniet uz pogas, kas atbilst jūsu viedoklim.</p>
 			</div>
 		</div>
 		<div class="navButtons">
-			<button class="buttonQuestion" onclick="next_question(1)" style="background-color: #1b5e20;">Absolument d'accord</button>
-			<button class="buttonQuestion" onclick="next_question(2/3)" style="background-color: #4caf50;">Plutôt d'accord</button>
-			<button class="buttonQuestion" onclick="next_question(0)" style="background-color: #bbbbbb;">Neutre ou hésitant</button>
-			<button class="buttonQuestion" onclick="next_question(-2/3)" style="background-color: #f44336;">Plutôt pas d'accord</button>
-			<button class="buttonQuestion" onclick="next_question(-1)" style="background-color: #b71c1c;">Absolument pas d'accord</button>
+			<button class="buttonQuestion" onclick="next_question(1)" style="background-color: #1b5e20;">Pilnīgi piekrītu</button>
+			<button class="buttonQuestion" onclick="next_question(2/3)" style="background-color: #4caf50;">Daļēji piekrītu</button>
+			<button class="buttonQuestion" onclick="next_question(0)" style="background-color: #bbbbbb;">Neitrāli vai svārstīgi</button>
+			<button class="buttonQuestion" onclick="next_question(-2/3)" style="background-color: #f44336;">Nedaudz nepiekrītu</button>
+			<button class="buttonQuestion" onclick="next_question(-1)" style="background-color: #b71c1c;">Pilnīgi nē</button>
 		</div>
 
 		<div class="navButtons">
-			<button class="button" onclick="prev_question()" id="back_button">Retour à la question précédente</button>
-			<button class="button" onclick="location.href='index.html';" id="back_button_off">Retour à l'accueil</button>
+			<button class="button" onclick="prev_question()" id="back_button">Atgriezties pie iepriekšējā jautājuma</button>
+			<button class="button" onclick="location.href='index.html';" id="back_button_off">Atpakaļ uz sākumlapu</button>
 		</div>
 
 	</div>
@@ -72,7 +72,7 @@ init_question();
 function init_question()
 {
 	document.getElementById("question-text").innerHTML = questions[qn].question;
-	document.getElementById("question-number").innerHTML = "Question " + (qn + 1) + " sur " + (questions.length);
+	document.getElementById("question-number").innerHTML = "Jautājums " + (qn + 1) + " no " + (questions.length);
 	if (qn == 0)
 	{
 		document.getElementById("back_button").style.display = 'none';

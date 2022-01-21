@@ -1,6 +1,6 @@
 questions = [
 
-	/* ESSENTIALISME ********************************************************** */
+	/* ESSENTIALISME ******************************************************************** */
 	{
 		question: "« You are not born a woman, you become one ».",
 		answer: 0,
@@ -245,7 +245,7 @@ questions = [
 			}
 		]
 	},
-    /* NATIONALISME *********************************************************** */
+    /* NATIONALISME ********************************************************************* */
 	{
 		question: "In the long run, borders must be removed.",
 		answer: 0,
@@ -470,7 +470,7 @@ questions = [
 			}
 		]
 	},
-    /* PRODUCTION ************************************************************* */
+    /* PRODUCTION *********************************************************************** */
 	{
 		question: "No one should get rich by owning a business, a house or land.",
 		answer: 0,
@@ -695,7 +695,7 @@ questions = [
 			}
 		]
 	},
-    /* MARCHE ***************************************************************** */
+    /* MARCHE *************************************************************************** */
 	{
 		question: "Income and capital must be taxed to redistribute wealth.",
 		answer: 0,
@@ -920,7 +920,7 @@ questions = [
 			}
 		]
 	},
-    /* SOCIETE **************************************************************** */
+    /* SOCIETE ************************************************************************** */
 	{
 		question: "Any tradition must be open to challenge.",
 		answer: 0,
@@ -1161,7 +1161,7 @@ questions = [
 			}
 		]
 	},
-    /* ECOLOGIE *************************************************************** */
+    /* ECOLOGIE ************************************************************************* */
 	{
 		question: "It is not acceptable that human actions lead to species extinctions.",
 		answer: 0,
@@ -1386,7 +1386,7 @@ questions = [
 			}
 		]
 	},
-    /* LIBERTAIRE ************************************************************* */
+    /* LIBERTAIRE *********************************************************************** */
 	{
 		question: "Prisons must be abolished.",
 		answer: 0,
@@ -1595,7 +1595,7 @@ questions = [
 			}
 		]
 	},
-    /* STRATEGIE ************************************************************** */
+    /* STRATEGIE ************************************************************************ */
 	{
 		question: "General strike is a good way to get new rights.",
 		answer: 0,
@@ -1820,7 +1820,7 @@ questions = [
 			}
 		]
 	},
-    /* BONUS ****************************************************************** */
+    /* BONUS **************************************************************************** */
 	{
 		question: "My religion must be spread as widely as possible.",
 		answer: 0,

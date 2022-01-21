@@ -2,7 +2,7 @@ questions = [
 
 	/* ESSENTIALISME ******************************************************************** */
 	{
-		question: "« Ženou sa človek nerodí, ale stáva sa ňou ».",
+		question: "« Az ember nem nőnek születik, hanem azzá válik ».",
 		answer: 0,
 		valuesYes: [
 			{
@@ -22,7 +22,7 @@ questions = [
 		]
 	},
 	{
-		question: "Rozdiely v zaobchádzaní a kvalite života v našej spoločnosti ukazujú, že rasizmus je stále veľmi prítomný.",
+		question: "A társadalomban a bánásmódban és az életminőségben mutatkozó különbségek azt mutatják, hogy a rasszizmus még mindig nagyon is jelen van.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -38,7 +38,7 @@ questions = [
 		]
 	},
 	{
-		question: "Veda, dokonca ani fyzika či biológia, nie je absolútna a je podmienená našou spoločnosťou.",
+		question: "A tudomány, még a fizika vagy a biológia sem abszolút, és azt a társadalmunk kondicionálja.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -54,7 +54,7 @@ questions = [
 		]
 	},
 	{
-		question: "Kategórie « muž » a « žena » sú sociálne konštrukcie, ktoré treba prekonať.",
+		question: "A « férfi » és a « nő » kategóriák olyan társadalmi konstrukciók, amelyeket le kell küzdeni.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -74,7 +74,7 @@ questions = [
 		]
 	},
 	{
-		question: "Nikto nie je od prírody náchylný na zločin.",
+		question: "Senki sem hajlamos természeténél fogva a bűnözésre.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -90,7 +90,7 @@ questions = [
 		]
 	},
 	{
-		question: "Sexuálna orientácia je daná.",
+		question: "A szexuális irányultság adott.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -106,7 +106,7 @@ questions = [
 		]
 	},
 	{
-		question: "Sociálne rozdiely medzi etnickými skupinami nemožno vysvetliť na základe biológie.",
+		question: "Az etnikai csoportok közötti társadalmi különbségek nem magyarázhatók a biológiával.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -122,27 +122,7 @@ questions = [
 		]
 	},
 	{
-		question: "Miesto mužov a žien v spoločnosti možno čiastočne vysvetliť biológiou.",
-		answer: 0,
-		valuesYes: [
-			{
-				axis: "c1",
-				value: 3
-			}
-		],
-		valuesNo: [
-			{
-				axis: "c0",
-				value: 3
-			},
-			{
-				axis: "femi",
-				value: 3
-			}
-		]
-	},
-	{
-		question: "Hormonálne rozdiely vysvetľujú niektoré rozdiely v charakterových vlastnostiach mužov a žien.",
+		question: "A férfiak és nők társadalomban elfoglalt helye részben a biológiával magyarázható.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -162,7 +142,7 @@ questions = [
 		]
 	},
 	{
-		question: "Sexuálne útoky sú čiastočne spôsobené prirodzeným pudom mužov.",
+		question: "A hormonális különbségek magyarázzák a férfiak és nők közötti jellemvonások közötti különbségek egy részét.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -182,7 +162,27 @@ questions = [
 		]
 	},
 	{
-		question: "Transrodoví ľudia nikdy nebudú tým pohlavím, ktorým chcú byť.",
+		question: "A szexuális támadásokat részben a férfiak természetes késztetései okozzák.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "c1",
+				value: 3
+			}
+		],
+		valuesNo: [
+			{
+				axis: "c0",
+				value: 3
+			},
+			{
+				axis: "femi",
+				value: 3
+			}
+		]
+	},
+	{
+		question: "A transznemű emberek soha nem lesznek olyan neműek, amilyenek lenni szeretnének.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -198,7 +198,7 @@ questions = [
 		]
 	},
 	{
-		question: "Príslušníci toho istého národa alebo kultúry majú nemenné vlastnosti, ktoré ich definujú.",
+		question: "Egyazon nemzet vagy kultúra tagjai változatlan jellemzőkkel rendelkeznek, amelyek meghatározzák őket.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -214,7 +214,7 @@ questions = [
 		]
 	},
 	{
-		question: "Biologicky je ľudský druh stvorený pre heterosexualitu.",
+		question: "Biológiailag az emberi faj heteroszexualitásra termett.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -230,7 +230,7 @@ questions = [
 		]
 	},
 	{
-		question: "Egoizmus je u ľudí rozšírený bez ohľadu na kontext.",
+		question: "Az önzés elterjedt az emberi fajban, függetlenül a kontextustól.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -247,7 +247,7 @@ questions = [
 	},
     /* NATIONALISME ********************************************************************* */
 	{
-		question: "Z dlhodobého hľadiska je potrebné odstrániť hranice.",
+		question: "Hosszú távon a határokat meg kell szüntetni.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -263,7 +263,7 @@ questions = [
 		]
 	},
 	{
-		question: "Musíte brániť svoje ideály, aj keď to znamená zradiť svoju krajinu.",
+		question: "Meg kell védened az eszméidet, még akkor is, ha ez a hazád elárulásával jár.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -279,7 +279,7 @@ questions = [
 		]
 	},
 	{
-		question: "Moja krajina musí zaplatiť za škody spôsobené zločinmi, ktoré spáchala v zahraničí.",
+		question: "Hazámnak fizetnie kell a külföldön elkövetett bűnök által okozott károk helyreállításáért.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -295,7 +295,7 @@ questions = [
 		]
 	},
 	{
-		question: "Ak majú dve krajiny podobné ekonomiky, sociálne systémy a environmentálne normy, voľný obchod medzi nimi nie je problém.",
+		question: "Ha két ország gazdasága, szociális rendszere és környezetvédelmi normái hasonlóak, akkor a szabad kereskedelem közöttük nem jelent problémát.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -311,7 +311,7 @@ questions = [
 		]
 	},
 	{
-		question: "Šovinizmus počas športových súťaží je neprípustný.",
+		question: "A sportversenyek során a sovinizmus elfogadhatatlan.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -327,7 +327,7 @@ questions = [
 		]
 	},
 	{
-		question: "Mám rovnaké obavy o ľudí v iných krajinách ako o ľudí vo svojej krajine.",
+		question: "Ugyanúgy aggódom a más országokban élő emberekért, mint a saját országomban élőkért.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -343,7 +343,7 @@ questions = [
 		]
 	},
 	{
-		question: "Cudzinci žijúci v našej krajine musia mať možnosť konať politicky na rovnakej úrovni ako občania našej krajiny.",
+		question: "Az országomban élő külföldieknek képesnek kell lenniük arra, hogy politikailag az állampolgársággal rendelkezőkkel egyenrangúan cselekedjenek.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -359,7 +359,7 @@ questions = [
 		]
 	},
 	{
-		question: "Občania musia mať prednosť pred cudzincami.",
+		question: "Az állampolgárokat előnyben kell részesíteni a külföldiekkel szemben.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -375,7 +375,7 @@ questions = [
 		]
 	},
 	{
-		question: "Hodnoty mojej krajiny sú nadradené hodnotám iných krajín.",
+		question: "Az én országom értékei magasabb rendűek, mint másoké.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -391,7 +391,7 @@ questions = [
 		]
 	},
 	{
-		question: "Multikulturalizmus predstavuje nebezpečenstvo.",
+		question: "A multikulturalizmus veszélyt jelent.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -407,7 +407,7 @@ questions = [
 		]
 	},
 	{
-		question: "Dobrý občan je vlastenec.",
+		question: "A jó polgár hazafi.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -423,7 +423,7 @@ questions = [
 		]
 	},
 	{
-		question: "Je legitímne, ak krajina vojensky zasahuje v zahraničí na obranu svojich hospodárskych záujmov.",
+		question: "Egy ország számára legitim, hogy gazdasági érdekeinek védelme érdekében külföldön katonai beavatkozást hajtson végre.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -439,7 +439,7 @@ questions = [
 		]
 	},
 	{
-		question: "Dejiny sa musia vyučovať spôsobom, ktorý vytvára pocit spolupatričnosti k národu.",
+		question: "A történelmet úgy kell tanítani, hogy az a nemzethez tartozás érzését keltse.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -455,7 +455,7 @@ questions = [
 		]
 	},
 	{
-		question: "Výskum realizovaný v mojej krajine by nemal byť dostupný ostatným.",
+		question: "Az én országomban végzett kutatások nem lehetnek mások számára hozzáférhetőek.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -472,7 +472,7 @@ questions = [
 	},
     /* PRODUCTION *********************************************************************** */
 	{
-		question: "Nikto by nemal zbohatnúť na vlastníctve podniku, domu alebo pozemku.",
+		question: "Senki sem gazdagodhat meg egy vállalkozás, egy ház vagy egy földterület birtoklásával.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -488,7 +488,7 @@ questions = [
 		]
 	},
 	{
-		question: "Platené zamestnanie v súkromnej spoločnosti je formou krádeže pracovníkov.",
+		question: "A magáncég által végzett bérmunka a munkavállalóktól való lopás egy formája.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -504,7 +504,7 @@ questions = [
 		]
 	},
 	{
-		question: "Je dôležité, aby zdravie zostalo prevažne verejné.",
+		question: "Fontos, hogy az egészségügy túlnyomórészt nyilvános maradjon.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -520,7 +520,7 @@ questions = [
 		]
 	},
 	{
-		question: "Energetická a dopravná infraštruktúra musí byť verejná.",
+		question: "Az energia- és közlekedési infrastruktúrának nyilvánosnak kell lennie.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -536,7 +536,7 @@ questions = [
 		]
 	},
 	{
-		question: "Patenty by nemali existovať.",
+		question: "A szabadalmaknak nem kellene létezniük.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -552,7 +552,7 @@ questions = [
 		]
 	},
 	{
-		question: "Zostavy musia byť nastavené tak, aby rozdeľovali produkciu spotrebiteľom podľa potreby.",
+		question: "Az összeszereléseket úgy kell kialakítani, hogy a termelés a fogyasztók között a szükségleteknek megfelelően osztható legyen.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -568,7 +568,7 @@ questions = [
 		]
 	},
 	{
-		question: "Trh práce zotročuje pracovníkov.",
+		question: "A munkaerőpiac rabszolgasorba taszítja a munkavállalókat.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -584,7 +584,7 @@ questions = [
 		]
 	},
 	{
-		question: "Hľadanie osobného zisku je pre hospodárstvo zdravé.",
+		question: "A személyes nyereségre való törekvés egészséges a gazdaság számára.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -600,7 +600,7 @@ questions = [
 		]
 	},
 	{
-		question: "Práve zásluhy vysvetľujú rozdiel v bohatstve dvoch ľudí.",
+		question: "Az érdem az, ami megmagyarázza a két ember közötti vagyoni különbséget.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -616,7 +616,7 @@ questions = [
 		]
 	},
 	{
-		question: "Nie je problém, aby niektoré školy a univerzity boli súkromné.",
+		question: "Nincs probléma azzal, hogy egyes iskolák és egyetemek magániskolák.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -632,7 +632,7 @@ questions = [
 		]
 	},
 	{
-		question: "Premiestnenie je nevyhnutné zlo na zlepšenie výroby.",
+		question: "Az áthelyezés szükséges rossz a termelés javítása érdekében.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -648,7 +648,7 @@ questions = [
 		]
 	},
 	{
-		question: "Je prijateľné, že existujú bohatí a chudobní.",
+		question: "Elfogadható, hogy vannak gazdagok és szegények.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -664,7 +664,7 @@ questions = [
 		]
 	},
 	{
-		question: "Je prijateľné, že niektoré odvetvia priemyslu sú súkromné.",
+		question: "Elfogadható, hogy az ipar egyes ágazatai magánvállalkozások.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -680,7 +680,7 @@ questions = [
 		]
 	},
 	{
-		question: "Banky musia zostať súkromné.",
+		question: "A bankoknak magánbankoknak kell maradniuk.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -697,7 +697,7 @@ questions = [
 	},
     /* MARCHE *************************************************************************** */
 	{
-		question: "Na prerozdelenie bohatstva je potrebné zdaňovať príjmy a kapitál.",
+		question: "A jövedelmet és a tőkét meg kell adóztatni a vagyon újraelosztása érdekében.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -713,7 +713,7 @@ questions = [
 		]
 	},
 	{
-		question: "Vek odchodu do dôchodku sa musí znížiť.",
+		question: "A nyugdíjkorhatárt csökkenteni kell.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -729,7 +729,7 @@ questions = [
 		]
 	},
 	{
-		question: "Prepúšťanie by malo byť zakázané s výnimkou odôvodnených prípadov.",
+		question: "Az elbocsátásokat indokolt esetek kivételével meg kell tiltani.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -745,7 +745,7 @@ questions = [
 		]
 	},
 	{
-		question: "Výška mzdy musí byť kontrolovaná, aby sa zabezpečilo, že pracovník môže žiť zo svojej práce.",
+		question: "A bérek szintjét úgy kell szabályozni, hogy a munkavállaló meg tudjon élni a munkájából.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -761,7 +761,7 @@ questions = [
 		]
 	},
 	{
-		question: "Je potrebné zabrániť vytváraniu súkromných monopolov.",
+		question: "Meg kell akadályozni a magánmonopóliumok létrejöttét.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -777,7 +777,7 @@ questions = [
 		]
 	},
 	{
-		question: "Úvery prijaté verejnou sférou sa nemusia nevyhnutne splácať.",
+		question: "A közszféra által felvett kölcsönöket nem feltétlenül kell visszafizetni.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -793,7 +793,7 @@ questions = [
 		]
 	},
 	{
-		question: "Niektoré odvetvia alebo druhy zamestnania je potrebné dotovať.",
+		question: "Bizonyos ágazatok vagy foglalkoztatási típusok támogatásra szorulnak.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -809,7 +809,7 @@ questions = [
 		]
 	},
 	{
-		question: "Trhové hospodárstvo je optimálne, ak nie je regulované.",
+		question: "A piacgazdaság akkor optimális, ha nincs szabályozva.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -825,7 +825,7 @@ questions = [
 		]
 	},
 	{
-		question: "V súčasnosti si zamestnanec pri podpise zmluvy s budúcim zamestnávateľom môže sám vybrať.",
+		question: "Jelenleg a munkavállaló saját maga választhat, amikor aláírja szerződését leendő munkáltatójával.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -841,7 +841,7 @@ questions = [
 		]
 	},
 	{
-		question: "Regulácie v zákonníku práce by sa mali odstrániť, aby sa podporilo zamestnávanie podnikov.",
+		question: "A munka törvénykönyvében szereplő szabályokat el kell törölni, hogy a vállalatokat ösztönözzék a munkaerő-felvételre.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -857,7 +857,7 @@ questions = [
 		]
 	},
 	{
-		question: "Zákonný pracovný čas sa musí predĺžiť.",
+		question: "A törvényes munkaidőt meg kell növelni.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -873,7 +873,7 @@ questions = [
 		]
 	},
 	{
-		question: "Environmentálne normy musia vznikať prostredníctvom spotreby, nie prostredníctvom autorít.",
+		question: "A környezetvédelmi normáknak a fogyasztáson keresztül kell kialakulniuk, nem pedig a hatóságokon keresztül.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -889,7 +889,7 @@ questions = [
 		]
 	},
 	{
-		question: "Sociálne dávky odrádzajú od práce.",
+		question: "A jóléti juttatások visszatartanak a munkavállalástól.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -905,7 +905,7 @@ questions = [
 		]
 	},
 	{
-		question: "Verejné podniky by mali byť riadené ako súkromné podniky a mali by sa riadiť logikou trhu.",
+		question: "Az állami vállalkozásokat úgy kell működtetni, mint a magánvállalkozásokat, és a piaci logikát kell követniük.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -922,7 +922,7 @@ questions = [
 	},
     /* SOCIETE ************************************************************************** */
 	{
-		question: "Každá tradícia musí byť otvorená spochybneniu.",
+		question: "Minden hagyománynak nyitottnak kell lennie a kihívásokra.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -938,7 +938,7 @@ questions = [
 		]
 	},
 	{
-		question: "Nemám problém s pridaním ďalších úradných jazykov alebo s nahradením súčasného úradného jazyka mojej krajiny.",
+		question: "Nekem nincs problémám azzal, hogy más hivatalos nyelvekkel egészítsék ki vagy váltsák fel az országom jelenlegi hivatalos nyelvét.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -954,7 +954,7 @@ questions = [
 		]
 	},
 	{
-		question: "Manželstvo by sa malo zrušiť.",
+		question: "A házasságot el kellene törölni.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -974,7 +974,7 @@ questions = [
 		]
 	},
 	{
-		question: "Cudzinci obohacujú našu kultúru.",
+		question: "A külföldiek gazdagítják kultúránkat.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -990,7 +990,7 @@ questions = [
 		]
 	},
 	{
-		question: "Vplyv náboženstva sa musí znížiť.",
+		question: "A vallás befolyásának csökkennie kell.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1006,7 +1006,7 @@ questions = [
 		]
 	},
 	{
-		question: "Jazyk definujú tí, ktorí ho používajú, nie akademici.",
+		question: "Egy nyelvet azok határoznak meg, akik használják, nem pedig a tudósok.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1022,7 +1022,7 @@ questions = [
 		]
 	},
 	{
-		question: "Eutanázia by mala byť povolená.",
+		question: "Az eutanáziát engedélyezni kell.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1038,7 +1038,7 @@ questions = [
 		]
 	},
 	{
-		question: "S homosexuálmi sa nemusí zaobchádzať rovnako ako s heterosexuálmi, pokiaľ ide o manželstvo, rodičovstvo, adopciu alebo plodenie detí.",
+		question: "A homoszexuálisokat nem kell a heteroszexuálisokkal egyenlően kezelni a házasság, a gyermekvállalás, az örökbefogadás vagy a nemzés tekintetében.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1054,7 +1054,7 @@ questions = [
 		]
 	},
 	{
-		question: "Za určitých podmienok je trest smrti oprávnený.",
+		question: "Bizonyos körülmények között a halálbüntetés indokolt.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1078,7 +1078,7 @@ questions = [
 		]
 	},
 	{
-		question: "Technický pokrok by nemal príliš rýchlo meniť spoločnosť.",
+		question: "A technikai fejlődés nem változtathatja meg túl gyorsan a társadalmat.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1094,7 +1094,7 @@ questions = [
 		]
 	},
 	{
-		question: "Škola by mala učiť najmä naše hodnoty, tradície a základné vedomosti.",
+		question: "Az iskolának elsősorban értékeinket, hagyományainkat és alapvető ismereteket kell tanítania.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1110,7 +1110,7 @@ questions = [
 		]
 	},
 	{
-		question: "Potraty by sa mali obmedziť na špecifické prípady.",
+		question: "Az abortuszt különleges esetekre kell korlátozni.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1130,7 +1130,7 @@ questions = [
 		]
 	},
 	{
-		question: "Hlavným cieľom páru by malo byť mať aspoň jedno dieťa.",
+		question: "Egy pár fő célja az kell, hogy legyen, hogy legalább egy gyermekük legyen.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1146,7 +1146,7 @@ questions = [
 		]
 	},
 	{
-		question: "Abstinencia by sa mala uprednostniť pred antikoncepciou, aby sa zachovala skutočná povaha sexuálneho aktu.",
+		question: "Az önmegtartóztatást előnyben kell részesíteni a fogamzásgátlással szemben, hogy megőrizzük a szexuális aktus valódi természetét.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1163,7 +1163,7 @@ questions = [
 	},
     /* ECOLOGIE ************************************************************************* */
 	{
-		question: "Je neprijateľné, aby ľudské aktivity viedli k vymieraniu druhov.",
+		question: "Nem fogadható el, hogy az emberi tevékenység fajok kipusztulásához vezessen.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1179,7 +1179,7 @@ questions = [
 		]
 	},
 	{
-		question: "GMO by sa mali zakázať mimo výskumného a lekárskeho sektora.",
+		question: "A GMO-kat be kellene tiltani a kutatási vagy orvosi szektoron kívül.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1195,7 +1195,7 @@ questions = [
 		]
 	},
 	{
-		question: "Proti globálnemu otepľovaniu treba bojovať.",
+		question: "A globális felmelegedés ellen küzdeni kell.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1211,7 +1211,7 @@ questions = [
 		]
 	},
 	{
-		question: "Musíme sa zmieriť s tým, že musíme zmeniť spôsob konzumácie potravín, aby sme obmedzili vykorisťovanie prírody.",
+		question: "El kell fogadnunk, hogy megváltoztatjuk élelmiszer-fogyasztási szokásainkat, hogy korlátozzuk a természet kizsákmányolását.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1227,7 +1227,7 @@ questions = [
 		]
 	},
 	{
-		question: "Je dôležité podporovať poľnohospodárstvo, ktoré zachováva biodiverzitu potravín, aj keď je jeho výnos nižší.",
+		question: "Fontos, hogy olyan mezőgazdaságot ösztönözzünk, amely fenntartja az élelmiszerek biológiai sokféleségét, még akkor is, ha annak hozama alacsonyabb.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1243,7 +1243,7 @@ questions = [
 		]
 	},
 	{
-		question: "Zachovanie mimomestských ekosystémov je dôležitejšie ako vytváranie pracovných miest.",
+		question: "A nem városi ökoszisztémák megőrzése fontosabb, mint a munkahelyteremtés.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1259,7 +1259,7 @@ questions = [
 		]
 	},
 	{
-		question: "Zníženie množstva odpadu sa musí dosiahnuť znížením výroby.",
+		question: "A hulladékcsökkentést a termelés csökkentésével kell elérni.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1275,7 +1275,7 @@ questions = [
 		]
 	},
 	{
-		question: "Kolonizácia vesmíru je dobrým riešením nedostatku surovín na Zemi (vzácne kovy atď.).",
+		question: "Az űrgyarmatosítás jó megoldás a földi nyersanyaghiányra (ritka fémek stb.).",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1291,7 +1291,7 @@ questions = [
 		]
 	},
 	{
-		question: "Udržateľná transformácia ekosystémov s cieľom zvýšiť kvalitu života ľudí je legitímna.",
+		question: "Az ökoszisztémák fenntartható átalakítása az emberek életminőségének javítása érdekében jogos.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1307,7 +1307,7 @@ questions = [
 		]
 	},
 	{
-		question: "Na zvýšenie produktivity sú potrebné rozsiahle investície do výskumu.",
+		question: "A termelékenység javításához masszív kutatási beruházásokra van szükség.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1323,7 +1323,7 @@ questions = [
 		]
 	},
 	{
-		question: "Transhumanizmus bude prospešný, pretože zlepší naše schopnosti.",
+		question: "A transzhumanizmus hasznos lesz, mert javítani fogja képességeinket.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1339,7 +1339,7 @@ questions = [
 		]
 	},
 	{
-		question: "Jadrové štiepenie je pri dobrej údržbe dobrým zdrojom energie.",
+		question: "Az atommaghasadás, ha jól karbantartják, jó energiaforrás.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1355,7 +1355,7 @@ questions = [
 		]
 	},
 	{
-		question: "Ťažba fosílnych palív je nevyhnutná.",
+		question: "A fosszilis tüzelőanyagok kitermelése szükséges.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1371,7 +1371,7 @@ questions = [
 		]
 	},
 	{
-		question: "Cieľom vlády musí byť udržanie silného hospodárskeho rastu.",
+		question: "Az erős gazdasági növekedés fenntartása a kormány célja kell, hogy legyen.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1388,7 +1388,7 @@ questions = [
 	},
     /* LIBERTAIRE *********************************************************************** */
 	{
-		question: "Väznice sa musia zrušiť.",
+		question: "A börtönöket meg kell szüntetni.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1404,7 +1404,7 @@ questions = [
 		]
 	},
 	{
-		question: "Stanovenie minimálneho trestu za priestupok alebo trestný čin je nespravodlivé.",
+		question: "Igazságtalan, ha egy bűncselekményre vagy bűncselekményre minimális büntetést állapítanak meg.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1420,7 +1420,7 @@ questions = [
 		]
 	},
 	{
-		question: "Ľuďom, ktorí opúšťajú väzenie, sa musí poskytnúť podpora pri ich opätovnom začlenení.",
+		question: "A börtönből távozókat támogatni kell a visszailleszkedésben.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1436,7 +1436,7 @@ questions = [
 		]
 	},
 	{
-		question: "Spravodlivosť musí vždy zohľadňovať kontext a záväzky odsúdenej osoby a podľa toho prispôsobovať tresty.",
+		question: "Az igazságszolgáltatásnak mindig figyelembe kell vennie az elítélt személy kontextusát és kötelezettségeit, és az ítéleteket ennek megfelelően kell kiigazítani.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1452,7 +1452,7 @@ questions = [
 		]
 	},
 	{
-		question: "Životné podmienky väzňov sa musia výrazne zlepšiť.",
+		question: "A fogvatartottak életkörülményein nagymértékben javítani kell.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1468,7 +1468,7 @@ questions = [
 		]
 	},
 	{
-		question: "Podávanie údajov musí byť veľmi dobre regulované a krížová kontrola databáz zakázaná.",
+		question: "Az adatok iktatását nagyon szigorúan felügyelni kell, és meg kell tiltani az adatbázisok keresztellenőrzését.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1484,7 +1484,7 @@ questions = [
 		]
 	},
 	{
-		question: "Právo na anonymitu na internete musí byť zaručené.",
+		question: "Garantálni kell a névtelenséghez való jogot az interneten.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1500,7 +1500,7 @@ questions = [
 		]
 	},
 	{
-		question: "Cieľom súdneho systému by malo byť potrestanie tých, ktorí porušili zákon.",
+		question: "Az igazságszolgáltatási rendszer célja a törvénysértők megbüntetése kell, hogy legyen.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1516,7 +1516,7 @@ questions = [
 		]
 	},
 	{
-		question: "Polícia musí byť ozbrojená.",
+		question: "A rendőrségnek fegyverrel kell rendelkeznie.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1532,7 +1532,7 @@ questions = [
 		]
 	},
 	{
-		question: "Obetovanie niektorých občianskych slobôd je nevyhnutné na ochranu pred teroristickými činmi.",
+		question: "Bizonyos polgári szabadságjogok feláldozása szükséges a terrorcselekmények elleni védelem érdekében.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1548,7 +1548,7 @@ questions = [
 		]
 	},
 	{
-		question: "Poriadok a autorita sa musia vždy rešpektovať.",
+		question: "A rendet és a tekintélyt mindenkor tiszteletben kell tartani.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1564,7 +1564,7 @@ questions = [
 		]
 	},
 	{
-		question: "Vysoké tresty sú účinné, pretože pôsobia odstrašujúco.",
+		question: "A súlyos büntetések hatékonyak, mert elrettentő hatásúak.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1580,7 +1580,7 @@ questions = [
 		]
 	},
 	{
-		question: "Je lepšie preventívne zatknúť potenciálne nebezpečnú osobu, ako riskovať, že spácha trestný čin.",
+		question: "Jobb egy potenciálisan veszélyes személyt megelőzően letartóztatni, mint kockáztatni, hogy bűncselekményt követ el.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1597,7 +1597,7 @@ questions = [
 	},
     /* STRATEGIE ************************************************************************ */
 	{
-		question: "Generálny štrajk je dobrý spôsob, ako získať nové práva.",
+		question: "Az általános sztrájk jó módja annak, hogy új jogokat szerezzenek.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1613,7 +1613,7 @@ questions = [
 		]
 	},
 	{
-		question: "Ozbrojený boj v krajine je niekedy nevyhnutný.",
+		question: "Egy országon belüli fegyveres harcra néha szükség van.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1629,7 +1629,7 @@ questions = [
 		]
 	},
 	{
-		question: "Na hĺbkovú transformáciu spoločnosti je potrebné povstanie.",
+		question: "A társadalom mélyreható átalakításához lázadásra van szükség.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1645,7 +1645,7 @@ questions = [
 		]
 	},
 	{
-		question: "Aktivizmus v rámci existujúcich politických inštitúcií nemá význam pre transformáciu spoločnosti.",
+		question: "A meglévő politikai intézményeken belüli aktivizmus nem releváns a társadalom átalakítása szempontjából.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1661,7 +1661,7 @@ questions = [
 		]
 	},
 	{
-		question: "Voľby organizované štátom nemôžu spochybniť moc.",
+		question: "Az állam által szervezett választások nem támadhatják meg a hatalmat.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1677,7 +1677,7 @@ questions = [
 		]
 	},
 	{
-		question: "Hacking má v politickom boji svoje legitímne miesto.",
+		question: "A hackelésnek legitim helye van a politikai küzdelemben.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1693,7 +1693,7 @@ questions = [
 		]
 	},
 	{
-		question: "Sabotáž je za určitých podmienok legitímna.",
+		question: "A szabotázs bizonyos feltételek mellett jogszerű.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1709,7 +1709,7 @@ questions = [
 		]
 	},
 	{
-		question: "Kampaň musí byť vždy vedená v prísnom súlade so zákonom.",
+		question: "Mindig a törvények szigorú betartásával kell kampányolni.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1725,7 +1725,7 @@ questions = [
 		]
 	},
 	{
-		question: "Revolúcie sú vždy odsúdené na zlý koniec.",
+		question: "A forradalmak mindig rosszul végződnek.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1741,7 +1741,7 @@ questions = [
 		]
 	},
 	{
-		question: "Radikálna zmena systému je kontraproduktívna. Namiesto toho sa spoločnosť musí transformovať postupne.",
+		question: "A rendszer radikális megváltoztatása kontraproduktív. Ehelyett a társadalmat fokozatosan kell átalakítani.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1757,7 +1757,7 @@ questions = [
 		]
 	},
 	{
-		question: "Násilie voči ľuďom nikdy nie je riešením.",
+		question: "Az emberek elleni erőszak soha nem megoldás.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1773,7 +1773,7 @@ questions = [
 		]
 	},
 	{
-		question: "Násilie páchané demonštrantmi by sa malo vždy oddeliť od.",
+		question: "A tüntetők által elkövetett erőszakot mindig el kell határolni.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1789,7 +1789,7 @@ questions = [
 		]
 	},
 	{
-		question: "Aby sme presadili niektoré z našich nápadov, musíme robiť kompromisy s opozíciou.",
+		question: "Kompromisszumot kell kötnünk az ellenzékkel, hogy egyes elképzeléseinket keresztülvigyük.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1805,7 +1805,7 @@ questions = [
 		]
 	},
 	{
-		question: "Zmeny v životnom štýle jednotlivcov môžu viesť k zmenám v spoločnosti.",
+		question: "Az egyéni életmódbeli változások a társadalomban is változásokat eredményezhetnek.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1822,7 +1822,7 @@ questions = [
 	},
     /* BONUS **************************************************************************** */
 	{
-		question: "Moje náboženstvo sa musí rozšíriť čo najviac.",
+		question: "A vallásomat a lehető legszélesebb körben kell terjeszteni.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1833,7 +1833,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Je to malá skupina, ktorá tajne a vedome ovláda svet.",
+		question: "Ez egy kis csoport, amely titokban és tudatosan irányítja a világot.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1844,7 +1844,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Dobrá politika je pragmatická politika bez ideológie.",
+		question: "A jó politika az ideológia nélküli pragmatikus politika.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1855,7 +1855,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Na zjednotenie ľudu a zachovanie našej suverenity je potrebné zaviesť monarchiu.",
+		question: "Monarchiát kell létrehozni, hogy egyesítsük a népet és megőrizzük szuverenitásunkat.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1866,7 +1866,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Ľudia by nemali jesť alebo vykorisťovať zvieratá.",
+		question: "Az embereknek nem szabad megenniük vagy kizsákmányolniuk az állatokat.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1877,7 +1877,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Štát musí byť zrušený.",
+		question: "Az államot meg kell szüntetni.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1888,7 +1888,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Náboženstvá musia rešpektovať slobodu svedomia, nesmú narúšať verejný poriadok a musia byť oddelené od verejných inštitúcií.",
+		question: "A vallásoknak tiszteletben kell tartaniuk a lelkiismereti szabadságot, nem zavarhatják a közrendet, és el kell különíteni őket a közintézményektől.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1899,7 +1899,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Ostatné krajiny musia byť závislé od mojej krajiny.",
+		question: "Más országoknak az én országomtól kell függeniük.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1910,7 +1910,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Ak je moja krajina pod okupáciou, v ťažkostiach alebo má problém, je mojou povinnosťou zapojiť sa do riešenia tohto problému.",
+		question: "Ha az országom megszállás alatt áll, bajban van, vagy problémája van, akkor kötelességem, hogy részt vegyek a problémában.",
 		answer: 0,
 		valuesYes: [
 			{

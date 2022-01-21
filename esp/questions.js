@@ -1,6 +1,6 @@
 questions = [
 
-	/* ESSENTIALISME ********************************************************** */
+	/* ESSENTIALISME ******************************************************************** */
 	{
 		question: "« No se nace mujer, se llega a serlo ».",
 		answer: 0,
@@ -245,7 +245,7 @@ questions = [
 			}
 		]
 	},
-    /* NATIONALISME *********************************************************** */
+    /* NATIONALISME ********************************************************************* */
 	{
 		question: "A largo plazo, hay que eliminar las fronteras.",
 		answer: 0,
@@ -470,7 +470,7 @@ questions = [
 			}
 		]
 	},
-    /* PRODUCTION ************************************************************* */
+    /* PRODUCTION *********************************************************************** */
 	{
 		question: "Nadie debería enriquecerse por tener un negocio, una casa o un terreno.",
 		answer: 0,
@@ -695,7 +695,7 @@ questions = [
 			}
 		]
 	},
-    /* MARCHE ***************************************************************** */
+    /* MARCHE *************************************************************************** */
 	{
 		question: "Hay que gravar la renta y el capital para redistribuir la riqueza.",
 		answer: 0,
@@ -920,7 +920,7 @@ questions = [
 			}
 		]
 	},
-    /* SOCIETE **************************************************************** */
+    /* SOCIETE ************************************************************************** */
 	{
 		question: "Toda tradición debe ser susceptible de ser cuestionada.",
 		answer: 0,
@@ -1161,7 +1161,7 @@ questions = [
 			}
 		]
 	},
-    /* ECOLOGIE *************************************************************** */
+    /* ECOLOGIE ************************************************************************* */
 	{
 		question: "No es aceptable que las acciones humanas provoquen la extinción de especies.",
 		answer: 0,
@@ -1386,7 +1386,7 @@ questions = [
 			}
 		]
 	},
-    /* LIBERTAIRE ************************************************************* */
+    /* LIBERTAIRE *********************************************************************** */
 	{
 		question: "Las prisiones deben ser abolidas.",
 		answer: 0,
@@ -1595,7 +1595,7 @@ questions = [
 			}
 		]
 	},
-    /* STRATEGIE ************************************************************** */
+    /* STRATEGIE ************************************************************************ */
 	{
 		question: "La huelga general es una buena forma de conseguir nuevos derechos.",
 		answer: 0,
@@ -1820,7 +1820,7 @@ questions = [
 			}
 		]
 	},
-    /* BONUS ****************************************************************** */
+    /* BONUS **************************************************************************** */
 	{
 		question: "Mi religión debe ser difundida lo más ampliamente posible.",
 		answer: 0,

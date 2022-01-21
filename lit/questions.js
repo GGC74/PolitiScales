@@ -2,7 +2,7 @@ questions = [
 
 	/* ESSENTIALISME ******************************************************************** */
 	{
-		question: "« Ženou sa človek nerodí, ale stáva sa ňou ».",
+		question: "« Moterimi ne gimstama, ja tampama ».",
 		answer: 0,
 		valuesYes: [
 			{
@@ -22,7 +22,7 @@ questions = [
 		]
 	},
 	{
-		question: "Rozdiely v zaobchádzaní a kvalite života v našej spoločnosti ukazujú, že rasizmus je stále veľmi prítomný.",
+		question: "Skirtingas požiūris ir gyvenimo kokybė mūsų visuomenėje rodo, kad rasizmas vis dar labai gajus.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -38,7 +38,7 @@ questions = [
 		]
 	},
 	{
-		question: "Veda, dokonca ani fyzika či biológia, nie je absolútna a je podmienená našou spoločnosťou.",
+		question: "Mokslas, net fizika ar biologija, nėra absoliutus ir yra sąlygotas mūsų visuomenės.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -54,7 +54,7 @@ questions = [
 		]
 	},
 	{
-		question: "Kategórie « muž » a « žena » sú sociálne konštrukcie, ktoré treba prekonať.",
+		question: "« Vyro » ir « moters » kategorijos yra socialinės konstrukcijos, kurias reikia įveikti.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -74,7 +74,7 @@ questions = [
 		]
 	},
 	{
-		question: "Nikto nie je od prírody náchylný na zločin.",
+		question: "Niekas iš prigimties nėra linkęs nusikalsti.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -90,7 +90,7 @@ questions = [
 		]
 	},
 	{
-		question: "Sexuálna orientácia je daná.",
+		question: "Seksualinė orientacija yra savaime suprantamas dalykas.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -106,7 +106,7 @@ questions = [
 		]
 	},
 	{
-		question: "Sociálne rozdiely medzi etnickými skupinami nemožno vysvetliť na základe biológie.",
+		question: "Etninių grupių socialinių skirtumų negalima paaiškinti biologija.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -122,27 +122,7 @@ questions = [
 		]
 	},
 	{
-		question: "Miesto mužov a žien v spoločnosti možno čiastočne vysvetliť biológiou.",
-		answer: 0,
-		valuesYes: [
-			{
-				axis: "c1",
-				value: 3
-			}
-		],
-		valuesNo: [
-			{
-				axis: "c0",
-				value: 3
-			},
-			{
-				axis: "femi",
-				value: 3
-			}
-		]
-	},
-	{
-		question: "Hormonálne rozdiely vysvetľujú niektoré rozdiely v charakterových vlastnostiach mužov a žien.",
+		question: "Vyrų ir moterų vietą visuomenėje iš dalies galima paaiškinti biologija.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -162,7 +142,7 @@ questions = [
 		]
 	},
 	{
-		question: "Sexuálne útoky sú čiastočne spôsobené prirodzeným pudom mužov.",
+		question: "Hormoniniai skirtumai paaiškina kai kuriuos vyrų ir moterų charakterio bruožų skirtumus.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -182,7 +162,27 @@ questions = [
 		]
 	},
 	{
-		question: "Transrodoví ľudia nikdy nebudú tým pohlavím, ktorým chcú byť.",
+		question: "Seksualinius išpuolius iš dalies lemia natūralūs vyrų potraukiai.",
+		answer: 0,
+		valuesYes: [
+			{
+				axis: "c1",
+				value: 3
+			}
+		],
+		valuesNo: [
+			{
+				axis: "c0",
+				value: 3
+			},
+			{
+				axis: "femi",
+				value: 3
+			}
+		]
+	},
+	{
+		question: "Transseksualūs žmonės niekada nebus tos lyties, kurios jie nori būti.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -198,7 +198,7 @@ questions = [
 		]
 	},
 	{
-		question: "Príslušníci toho istého národa alebo kultúry majú nemenné vlastnosti, ktoré ich definujú.",
+		question: "Tos pačios tautos ar kultūros nariams būdingos nekintančios savybės, kurios juos apibūdina.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -214,7 +214,7 @@ questions = [
 		]
 	},
 	{
-		question: "Biologicky je ľudský druh stvorený pre heterosexualitu.",
+		question: "Biologiškai žmonių rūšis sukurta heteroseksualumui.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -230,7 +230,7 @@ questions = [
 		]
 	},
 	{
-		question: "Egoizmus je u ľudí rozšírený bez ohľadu na kontext.",
+		question: "Savanaudiškumas paplitęs tarp žmonių, nepriklausomai nuo konteksto.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -247,7 +247,7 @@ questions = [
 	},
     /* NATIONALISME ********************************************************************* */
 	{
-		question: "Z dlhodobého hľadiska je potrebné odstrániť hranice.",
+		question: "Ilgainiui sienos turi būti panaikintos.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -263,7 +263,7 @@ questions = [
 		]
 	},
 	{
-		question: "Musíte brániť svoje ideály, aj keď to znamená zradiť svoju krajinu.",
+		question: "Turite ginti savo idealus, net jei tai reiškia, kad turite išduoti savo šalį.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -279,7 +279,7 @@ questions = [
 		]
 	},
 	{
-		question: "Moja krajina musí zaplatiť za škody spôsobené zločinmi, ktoré spáchala v zahraničí.",
+		question: "Mano šalis turi atlyginti žalą, padarytą dėl užsienyje įvykdytų nusikaltimų.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -295,7 +295,7 @@ questions = [
 		]
 	},
 	{
-		question: "Ak majú dve krajiny podobné ekonomiky, sociálne systémy a environmentálne normy, voľný obchod medzi nimi nie je problém.",
+		question: "Jei dviejų šalių ekonomika, socialinės sistemos ir aplinkosaugos standartai panašūs, laisva prekyba tarp jų nėra problema.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -311,7 +311,7 @@ questions = [
 		]
 	},
 	{
-		question: "Šovinizmus počas športových súťaží je neprípustný.",
+		question: "Šovinizmas per sporto varžybas yra nepriimtinas.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -327,7 +327,7 @@ questions = [
 		]
 	},
 	{
-		question: "Mám rovnaké obavy o ľudí v iných krajinách ako o ľudí vo svojej krajine.",
+		question: "Man taip pat rūpi kitų šalių žmonės, kaip ir mano šalies gyventojai.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -343,7 +343,7 @@ questions = [
 		]
 	},
 	{
-		question: "Cudzinci žijúci v našej krajine musia mať možnosť konať politicky na rovnakej úrovni ako občania našej krajiny.",
+		question: "Mano šalyje gyvenantiems užsieniečiams turi būti sudarytos vienodos politinės galimybės veikti lygiai taip pat, kaip ir pilietybę turintiems asmenims.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -359,7 +359,7 @@ questions = [
 		]
 	},
 	{
-		question: "Občania musia mať prednosť pred cudzincami.",
+		question: "Piliečiams turi būti teikiama pirmenybė prieš užsieniečius.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -375,7 +375,7 @@ questions = [
 		]
 	},
 	{
-		question: "Hodnoty mojej krajiny sú nadradené hodnotám iných krajín.",
+		question: "Mano šalies vertybės yra pranašesnės už kitų šalių vertybes.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -391,7 +391,7 @@ questions = [
 		]
 	},
 	{
-		question: "Multikulturalizmus predstavuje nebezpečenstvo.",
+		question: "Daugiakultūriškumas kelia pavojų.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -407,7 +407,7 @@ questions = [
 		]
 	},
 	{
-		question: "Dobrý občan je vlastenec.",
+		question: "Geras pilietis yra patriotas.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -423,7 +423,7 @@ questions = [
 		]
 	},
 	{
-		question: "Je legitímne, ak krajina vojensky zasahuje v zahraničí na obranu svojich hospodárskych záujmov.",
+		question: "Šalis teisėtai gali vykdyti karinę intervenciją užsienyje, kad apgintų savo ekonominius interesus.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -439,7 +439,7 @@ questions = [
 		]
 	},
 	{
-		question: "Dejiny sa musia vyučovať spôsobom, ktorý vytvára pocit spolupatričnosti k národu.",
+		question: "Istorija turi būti dėstoma taip, kad sukurtų priklausymo tautai jausmą.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -455,7 +455,7 @@ questions = [
 		]
 	},
 	{
-		question: "Výskum realizovaný v mojej krajine by nemal byť dostupný ostatným.",
+		question: "Mano šalyje atlikti moksliniai tyrimai neturėtų būti prieinami kitiems.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -472,7 +472,7 @@ questions = [
 	},
     /* PRODUCTION *********************************************************************** */
 	{
-		question: "Nikto by nemal zbohatnúť na vlastníctve podniku, domu alebo pozemku.",
+		question: "Niekas neturėtų praturtėti turėdamas verslą, namą ar žemę.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -488,7 +488,7 @@ questions = [
 		]
 	},
 	{
-		question: "Platené zamestnanie v súkromnej spoločnosti je formou krádeže pracovníkov.",
+		question: "Privačios įmonės samdomas darbas yra vagystė iš darbuotojų.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -504,7 +504,7 @@ questions = [
 		]
 	},
 	{
-		question: "Je dôležité, aby zdravie zostalo prevažne verejné.",
+		question: "Svarbu, kad sveikata išliktų daugiausia vieša.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -520,7 +520,7 @@ questions = [
 		]
 	},
 	{
-		question: "Energetická a dopravná infraštruktúra musí byť verejná.",
+		question: "Energetikos ir transporto infrastruktūra turi būti viešoji.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -536,7 +536,7 @@ questions = [
 		]
 	},
 	{
-		question: "Patenty by nemali existovať.",
+		question: "Patentų neturėtų būti.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -552,7 +552,7 @@ questions = [
 		]
 	},
 	{
-		question: "Zostavy musia byť nastavené tak, aby rozdeľovali produkciu spotrebiteľom podľa potreby.",
+		question: "Reikia sukurti agregatus, kurie paskirstytų produkciją vartotojams pagal poreikį.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -568,7 +568,7 @@ questions = [
 		]
 	},
 	{
-		question: "Trh práce zotročuje pracovníkov.",
+		question: "Darbo rinka pavergia darbuotojus.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -584,7 +584,7 @@ questions = [
 		]
 	},
 	{
-		question: "Hľadanie osobného zisku je pre hospodárstvo zdravé.",
+		question: "Asmeninio pelno siekis yra sveikas ekonomikai.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -600,7 +600,7 @@ questions = [
 		]
 	},
 	{
-		question: "Práve zásluhy vysvetľujú rozdiel v bohatstve dvoch ľudí.",
+		question: "Būtent nuopelnai paaiškina dviejų žmonių turto skirtumą.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -616,7 +616,7 @@ questions = [
 		]
 	},
 	{
-		question: "Nie je problém, aby niektoré školy a univerzity boli súkromné.",
+		question: "Nėra jokios problemos, kad kai kurios mokyklos ir universitetai yra privatūs.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -632,7 +632,7 @@ questions = [
 		]
 	},
 	{
-		question: "Premiestnenie je nevyhnutné zlo na zlepšenie výroby.",
+		question: "Perkėlimas yra būtina blogybė siekiant pagerinti gamybą.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -648,7 +648,7 @@ questions = [
 		]
 	},
 	{
-		question: "Je prijateľné, že existujú bohatí a chudobní.",
+		question: "Priimtina, kad yra turtingų ir vargšų.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -664,7 +664,7 @@ questions = [
 		]
 	},
 	{
-		question: "Je prijateľné, že niektoré odvetvia priemyslu sú súkromné.",
+		question: "Priimtina, kad kai kurie pramonės sektoriai yra privatūs.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -680,7 +680,7 @@ questions = [
 		]
 	},
 	{
-		question: "Banky musia zostať súkromné.",
+		question: "Bankai turi išlikti privatūs.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -697,7 +697,7 @@ questions = [
 	},
     /* MARCHE *************************************************************************** */
 	{
-		question: "Na prerozdelenie bohatstva je potrebné zdaňovať príjmy a kapitál.",
+		question: "Siekiant perskirstyti turtą, pajamos ir kapitalas turi būti apmokestinami.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -713,7 +713,7 @@ questions = [
 		]
 	},
 	{
-		question: "Vek odchodu do dôchodku sa musí znížiť.",
+		question: "Pensinis amžius turi būti sumažintas.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -729,7 +729,7 @@ questions = [
 		]
 	},
 	{
-		question: "Prepúšťanie by malo byť zakázané s výnimkou odôvodnených prípadov.",
+		question: "Atleidimas iš darbo turėtų būti draudžiamas, išskyrus pagrįstus atvejus.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -745,7 +745,7 @@ questions = [
 		]
 	},
 	{
-		question: "Výška mzdy musí byť kontrolovaná, aby sa zabezpečilo, že pracovník môže žiť zo svojej práce.",
+		question: "Darbo užmokesčio dydis turi būti kontroliuojamas, kad darbuotojas galėtų pragyventi iš savo darbo.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -761,7 +761,7 @@ questions = [
 		]
 	},
 	{
-		question: "Je potrebné zabrániť vytváraniu súkromných monopolov.",
+		question: "Reikia užkirsti kelią privačių monopolijų kūrimui.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -777,7 +777,7 @@ questions = [
 		]
 	},
 	{
-		question: "Úvery prijaté verejnou sférou sa nemusia nevyhnutne splácať.",
+		question: "Viešosios sferos paimtos paskolos nebūtinai turi būti grąžintos.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -793,7 +793,7 @@ questions = [
 		]
 	},
 	{
-		question: "Niektoré odvetvia alebo druhy zamestnania je potrebné dotovať.",
+		question: "Reikia subsidijuoti tam tikrus sektorius ar užimtumo rūšis.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -809,7 +809,7 @@ questions = [
 		]
 	},
 	{
-		question: "Trhové hospodárstvo je optimálne, ak nie je regulované.",
+		question: "Rinkos ekonomika yra optimali, kai ji nėra reguliuojama.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -825,7 +825,7 @@ questions = [
 		]
 	},
 	{
-		question: "V súčasnosti si zamestnanec pri podpise zmluvy s budúcim zamestnávateľom môže sám vybrať.",
+		question: "Šiuo metu darbuotojas, pasirašydamas sutartį su būsimu darbdaviu, gali laisvai pasirinkti.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -841,7 +841,7 @@ questions = [
 		]
 	},
 	{
-		question: "Regulácie v zákonníku práce by sa mali odstrániť, aby sa podporilo zamestnávanie podnikov.",
+		question: "Siekiant paskatinti įmones įdarbinti darbuotojus, reikėtų panaikinti Darbo kodekso nuostatas.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -857,7 +857,7 @@ questions = [
 		]
 	},
 	{
-		question: "Zákonný pracovný čas sa musí predĺžiť.",
+		question: "Įteisintas darbo laikas turi būti pailgintas.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -873,7 +873,7 @@ questions = [
 		]
 	},
 	{
-		question: "Environmentálne normy musia vznikať prostredníctvom spotreby, nie prostredníctvom autorít.",
+		question: "Aplinkosaugos standartai turėtų atsirasti dėl vartojimo, o ne dėl valdžios institucijų.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -889,7 +889,7 @@ questions = [
 		]
 	},
 	{
-		question: "Sociálne dávky odrádzajú od práce.",
+		question: "Socialinės išmokos atgraso nuo darbo.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -905,7 +905,7 @@ questions = [
 		]
 	},
 	{
-		question: "Verejné podniky by mali byť riadené ako súkromné podniky a mali by sa riadiť logikou trhu.",
+		question: "Valstybinės įmonės turėtų būti valdomos kaip privačios įmonės ir vadovautis rinkos logika.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -922,7 +922,7 @@ questions = [
 	},
     /* SOCIETE ************************************************************************** */
 	{
-		question: "Každá tradícia musí byť otvorená spochybneniu.",
+		question: "Bet kokia tradicija turi būti atvira iššūkiams.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -938,7 +938,7 @@ questions = [
 		]
 	},
 	{
-		question: "Nemám problém s pridaním ďalších úradných jazykov alebo s nahradením súčasného úradného jazyka mojej krajiny.",
+		question: "Neprieštarauju, kad būtų įtrauktos kitos oficialios kalbos arba pakeistos esamos mano šalies oficialios kalbos.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -954,7 +954,7 @@ questions = [
 		]
 	},
 	{
-		question: "Manželstvo by sa malo zrušiť.",
+		question: "Santuoka turėtų būti panaikinta.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -974,7 +974,7 @@ questions = [
 		]
 	},
 	{
-		question: "Cudzinci obohacujú našu kultúru.",
+		question: "Užsieniečiai praturtina mūsų kultūrą.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -990,7 +990,7 @@ questions = [
 		]
 	},
 	{
-		question: "Vplyv náboženstva sa musí znížiť.",
+		question: "Religijos įtaka turi mažėti.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1006,7 +1006,7 @@ questions = [
 		]
 	},
 	{
-		question: "Jazyk definujú tí, ktorí ho používajú, nie akademici.",
+		question: "Kalbą apibrėžia tie, kurie ją vartoja, o ne mokslininkai.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1022,7 +1022,7 @@ questions = [
 		]
 	},
 	{
-		question: "Eutanázia by mala byť povolená.",
+		question: "Eutanazija turėtų būti leidžiama.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1038,7 +1038,7 @@ questions = [
 		]
 	},
 	{
-		question: "S homosexuálmi sa nemusí zaobchádzať rovnako ako s heterosexuálmi, pokiaľ ide o manželstvo, rodičovstvo, adopciu alebo plodenie detí.",
+		question: "Homoseksualai neturi būti traktuojami vienodai su heteroseksualais santuokos, tėvystės, įvaikinimo ar prokreacijos atžvilgiu.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1054,7 +1054,7 @@ questions = [
 		]
 	},
 	{
-		question: "Za určitých podmienok je trest smrti oprávnený.",
+		question: "Esant tam tikroms sąlygoms, mirties bausmė yra pateisinama.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1078,7 +1078,7 @@ questions = [
 		]
 	},
 	{
-		question: "Technický pokrok by nemal príliš rýchlo meniť spoločnosť.",
+		question: "Techninė pažanga neturėtų pernelyg greitai keisti visuomenės.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1094,7 +1094,7 @@ questions = [
 		]
 	},
 	{
-		question: "Škola by mala učiť najmä naše hodnoty, tradície a základné vedomosti.",
+		question: "Mokykloje daugiausia turėtų būti mokoma mūsų vertybių, tradicijų ir pagrindinių žinių.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1110,7 +1110,7 @@ questions = [
 		]
 	},
 	{
-		question: "Potraty by sa mali obmedziť na špecifické prípady.",
+		question: "Abortai turėtų būti atliekami tik tam tikrais atvejais.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1130,7 +1130,7 @@ questions = [
 		]
 	},
 	{
-		question: "Hlavným cieľom páru by malo byť mať aspoň jedno dieťa.",
+		question: "Pagrindinis poros tikslas turėtų būti susilaukti bent vieno vaiko.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1146,7 +1146,7 @@ questions = [
 		]
 	},
 	{
-		question: "Abstinencia by sa mala uprednostniť pred antikoncepciou, aby sa zachovala skutočná povaha sexuálneho aktu.",
+		question: "Siekiant išsaugoti tikrąją lytinio akto prigimtį, pirmenybė turėtų būti teikiama susilaikymui, o ne kontracepcijai.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1163,7 +1163,7 @@ questions = [
 	},
     /* ECOLOGIE ************************************************************************* */
 	{
-		question: "Je neprijateľné, aby ľudské aktivity viedli k vymieraniu druhov.",
+		question: "Nepriimtina, kad dėl žmogaus veiksmų nyksta rūšys.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1179,7 +1179,7 @@ questions = [
 		]
 	},
 	{
-		question: "GMO by sa mali zakázať mimo výskumného a lekárskeho sektora.",
+		question: "GMO turėtų būti uždrausti už mokslinių tyrimų ir medicinos sektoriaus ribų.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1195,7 +1195,7 @@ questions = [
 		]
 	},
 	{
-		question: "Proti globálnemu otepľovaniu treba bojovať.",
+		question: "Reikia kovoti su visuotiniu atšilimu.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1211,7 +1211,7 @@ questions = [
 		]
 	},
 	{
-		question: "Musíme sa zmieriť s tým, že musíme zmeniť spôsob konzumácie potravín, aby sme obmedzili vykorisťovanie prírody.",
+		question: "Turime pripažinti, kad turime keisti maisto vartojimo būdą, kad apribotume gamtos išnaudojimą.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1227,7 +1227,7 @@ questions = [
 		]
 	},
 	{
-		question: "Je dôležité podporovať poľnohospodárstvo, ktoré zachováva biodiverzitu potravín, aj keď je jeho výnos nižší.",
+		question: "Svarbu skatinti žemės ūkį, kuriame išsaugoma maisto biologinė įvairovė, net jei jo derlius mažesnis.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1243,7 +1243,7 @@ questions = [
 		]
 	},
 	{
-		question: "Zachovanie mimomestských ekosystémov je dôležitejšie ako vytváranie pracovných miest.",
+		question: "Išsaugoti ne miesto ekosistemas yra svarbiau nei kurti darbo vietas.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1259,7 +1259,7 @@ questions = [
 		]
 	},
 	{
-		question: "Zníženie množstva odpadu sa musí dosiahnuť znížením výroby.",
+		question: "Atliekų kiekį reikia mažinti mažinant gamybą.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1275,7 +1275,7 @@ questions = [
 		]
 	},
 	{
-		question: "Kolonizácia vesmíru je dobrým riešením nedostatku surovín na Zemi (vzácne kovy atď.).",
+		question: "Kosmoso kolonizacija - geras sprendimas, kaip išspręsti žaliavų (retųjų metalų ir kt.) trūkumo Žemėje problemą.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1291,7 +1291,7 @@ questions = [
 		]
 	},
 	{
-		question: "Udržateľná transformácia ekosystémov s cieľom zvýšiť kvalitu života ľudí je legitímna.",
+		question: "Tvarus ekosistemų pertvarkymas siekiant pagerinti žmonių gyvenimo kokybę yra teisėtas.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1307,7 +1307,7 @@ questions = [
 		]
 	},
 	{
-		question: "Na zvýšenie produktivity sú potrebné rozsiahle investície do výskumu.",
+		question: "Norint padidinti našumą, reikia daug investuoti į mokslinius tyrimus.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1323,7 +1323,7 @@ questions = [
 		]
 	},
 	{
-		question: "Transhumanizmus bude prospešný, pretože zlepší naše schopnosti.",
+		question: "Transhumanizmas bus naudingas, nes pagerins mūsų galimybes.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1339,7 +1339,7 @@ questions = [
 		]
 	},
 	{
-		question: "Jadrové štiepenie je pri dobrej údržbe dobrým zdrojom energie.",
+		question: "Gerai prižiūrimas branduolių dalijimasis yra geras energijos šaltinis.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1355,7 +1355,7 @@ questions = [
 		]
 	},
 	{
-		question: "Ťažba fosílnych palív je nevyhnutná.",
+		question: "Iškastinį kurą eksploatuoti būtina.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1371,7 +1371,7 @@ questions = [
 		]
 	},
 	{
-		question: "Cieľom vlády musí byť udržanie silného hospodárskeho rastu.",
+		question: "Vyriausybė turi siekti išlaikyti spartų ekonomikos augimą.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1388,7 +1388,7 @@ questions = [
 	},
     /* LIBERTAIRE *********************************************************************** */
 	{
-		question: "Väznice sa musia zrušiť.",
+		question: "Kalėjimai turi būti panaikinti.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1404,7 +1404,7 @@ questions = [
 		]
 	},
 	{
-		question: "Stanovenie minimálneho trestu za priestupok alebo trestný čin je nespravodlivé.",
+		question: "Nesąžininga nustatyti minimalią bausmę už nusikaltimą ar baudžiamąjį nusižengimą.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1420,7 +1420,7 @@ questions = [
 		]
 	},
 	{
-		question: "Ľuďom, ktorí opúšťajú väzenie, sa musí poskytnúť podpora pri ich opätovnom začlenení.",
+		question: "Iš įkalinimo įstaigų išeinantiems asmenims turi būti padedama reintegruotis.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1436,7 +1436,7 @@ questions = [
 		]
 	},
 	{
-		question: "Spravodlivosť musí vždy zohľadňovať kontext a záväzky odsúdenej osoby a podľa toho prispôsobovať tresty.",
+		question: "Teisingumas visada turi atsižvelgti į aplinkybes ir nuteistojo atsakomybę ir atitinkamai pritaikyti bausmes.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1452,7 +1452,7 @@ questions = [
 		]
 	},
 	{
-		question: "Životné podmienky väzňov sa musia výrazne zlepšiť.",
+		question: "Reikia labai pagerinti kalinių gyvenimo sąlygas.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1468,7 +1468,7 @@ questions = [
 		]
 	},
 	{
-		question: "Podávanie údajov musí byť veľmi dobre regulované a krížová kontrola databáz zakázaná.",
+		question: "Duomenų pateikimas turi būti labai gerai reglamentuotas, o kryžminis duomenų bazių tikrinimas uždraustas.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1484,7 +1484,7 @@ questions = [
 		]
 	},
 	{
-		question: "Právo na anonymitu na internete musí byť zaručené.",
+		question: "Turi būti užtikrinta teisė į anonimiškumą internete.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1500,7 +1500,7 @@ questions = [
 		]
 	},
 	{
-		question: "Cieľom súdneho systému by malo byť potrestanie tých, ktorí porušili zákon.",
+		question: "Teismų sistemos tikslas turi būti nubausti teisės pažeidėjus.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1516,7 +1516,7 @@ questions = [
 		]
 	},
 	{
-		question: "Polícia musí byť ozbrojená.",
+		question: "Policija turi būti ginkluota.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1532,7 +1532,7 @@ questions = [
 		]
 	},
 	{
-		question: "Obetovanie niektorých občianskych slobôd je nevyhnutné na ochranu pred teroristickými činmi.",
+		question: "Norint apsisaugoti nuo teroro aktų, būtina paaukoti tam tikras pilietines laisves.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1548,7 +1548,7 @@ questions = [
 		]
 	},
 	{
-		question: "Poriadok a autorita sa musia vždy rešpektovať.",
+		question: "Visada reikia gerbti tvarką ir autoritetą.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1564,7 +1564,7 @@ questions = [
 		]
 	},
 	{
-		question: "Vysoké tresty sú účinné, pretože pôsobia odstrašujúco.",
+		question: "Griežtos bausmės yra veiksmingos, nes jos atgraso.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1580,7 +1580,7 @@ questions = [
 		]
 	},
 	{
-		question: "Je lepšie preventívne zatknúť potenciálne nebezpečnú osobu, ako riskovať, že spácha trestný čin.",
+		question: "Geriau prevenciškai sulaikyti potencialiai pavojingą asmenį nei rizikuoti, kad jis padarys nusikaltimą.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1597,7 +1597,7 @@ questions = [
 	},
     /* STRATEGIE ************************************************************************ */
 	{
-		question: "Generálny štrajk je dobrý spôsob, ako získať nové práva.",
+		question: "Visuotinis streikas yra geras būdas gauti naujų teisių.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1613,7 +1613,7 @@ questions = [
 		]
 	},
 	{
-		question: "Ozbrojený boj v krajine je niekedy nevyhnutný.",
+		question: "Kartais šalyje būtina ginkluota kova.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1629,7 +1629,7 @@ questions = [
 		]
 	},
 	{
-		question: "Na hĺbkovú transformáciu spoločnosti je potrebné povstanie.",
+		question: "Sukilimas yra būtinas, kad visuomenė būtų pertvarkyta iš esmės.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1645,7 +1645,7 @@ questions = [
 		]
 	},
 	{
-		question: "Aktivizmus v rámci existujúcich politických inštitúcií nemá význam pre transformáciu spoločnosti.",
+		question: "Aktyvumas esamose politinėse institucijose nėra svarbus siekiant pertvarkyti visuomenę.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1661,7 +1661,7 @@ questions = [
 		]
 	},
 	{
-		question: "Voľby organizované štátom nemôžu spochybniť moc.",
+		question: "Valstybės organizuojami rinkimai negali mesti iššūkio valdžiai.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1677,7 +1677,7 @@ questions = [
 		]
 	},
 	{
-		question: "Hacking má v politickom boji svoje legitímne miesto.",
+		question: "Įsilaužimas turi teisėtą vietą politinėje kovoje.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1693,7 +1693,7 @@ questions = [
 		]
 	},
 	{
-		question: "Sabotáž je za určitých podmienok legitímna.",
+		question: "Tam tikromis sąlygomis sabotažas yra teisėtas.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1709,7 +1709,7 @@ questions = [
 		]
 	},
 	{
-		question: "Kampaň musí byť vždy vedená v prísnom súlade so zákonom.",
+		question: "Kampaniją visada reikia vykdyti griežtai laikantis įstatymų.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1725,7 +1725,7 @@ questions = [
 		]
 	},
 	{
-		question: "Revolúcie sú vždy odsúdené na zlý koniec.",
+		question: "Revoliucijoms visada lemta baigtis blogai.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1741,7 +1741,7 @@ questions = [
 		]
 	},
 	{
-		question: "Radikálna zmena systému je kontraproduktívna. Namiesto toho sa spoločnosť musí transformovať postupne.",
+		question: "Radikalus sistemos keitimas duoda priešingą rezultatą. Vietoj to visuomenė turi būti pertvarkoma palaipsniui.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1757,7 +1757,7 @@ questions = [
 		]
 	},
 	{
-		question: "Násilie voči ľuďom nikdy nie je riešením.",
+		question: "Smurtas prieš žmones niekada nėra sprendimas.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1773,7 +1773,7 @@ questions = [
 		]
 	},
 	{
-		question: "Násilie páchané demonštrantmi by sa malo vždy oddeliť od.",
+		question: "Demonstrantų smurtas visada turėtų būti atskirtas nuo.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1789,7 +1789,7 @@ questions = [
 		]
 	},
 	{
-		question: "Aby sme presadili niektoré z našich nápadov, musíme robiť kompromisy s opozíciou.",
+		question: "Norėdami įgyvendinti kai kurias savo idėjas, turime eiti į kompromisą su opozicija.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1805,7 +1805,7 @@ questions = [
 		]
 	},
 	{
-		question: "Zmeny v životnom štýle jednotlivcov môžu viesť k zmenám v spoločnosti.",
+		question: "Individualaus gyvenimo būdo pokyčiai gali lemti pokyčius visuomenėje.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1822,7 +1822,7 @@ questions = [
 	},
     /* BONUS **************************************************************************** */
 	{
-		question: "Moje náboženstvo sa musí rozšíriť čo najviac.",
+		question: "Mano religija turi būti skleidžiama kuo plačiau.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1833,7 +1833,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Je to malá skupina, ktorá tajne a vedome ovláda svet.",
+		question: "Tai nedidelė grupė, kuri slapta ir sąmoningai valdo pasaulį.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1844,7 +1844,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Dobrá politika je pragmatická politika bez ideológie.",
+		question: "Gera politika - tai pragmatiška politika be ideologijos.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1855,7 +1855,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Na zjednotenie ľudu a zachovanie našej suverenity je potrebné zaviesť monarchiu.",
+		question: "Norint suvienyti tautą ir išsaugoti mūsų suverenitetą, reikia sukurti monarchiją.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1866,7 +1866,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Ľudia by nemali jesť alebo vykorisťovať zvieratá.",
+		question: "Žmonės neturėtų valgyti ar išnaudoti gyvūnų.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1877,7 +1877,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Štát musí byť zrušený.",
+		question: "Valstybė turi būti panaikinta.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1888,7 +1888,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Náboženstvá musia rešpektovať slobodu svedomia, nesmú narúšať verejný poriadok a musia byť oddelené od verejných inštitúcií.",
+		question: "Religijos turi gerbti sąžinės laisvę, netrikdyti viešosios tvarkos ir būti atskirtos nuo valstybinių institucijų.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1899,7 +1899,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Ostatné krajiny musia byť závislé od mojej krajiny.",
+		question: "Kitos šalys turi būti priklausomos nuo mano šalies.",
 		answer: 0,
 		valuesYes: [
 			{
@@ -1910,7 +1910,7 @@ questions = [
 		valuesNo: []
 	},
 	{
-		question: "Ak je moja krajina pod okupáciou, v ťažkostiach alebo má problém, je mojou povinnosťou zapojiť sa do riešenia tohto problému.",
+		question: "Jei mano šalis yra okupuota, turi bėdų ar problemų, mano pareiga yra į jas įsitraukti.",
 		answer: 0,
 		valuesYes: [
 			{

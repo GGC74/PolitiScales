@@ -3,15 +3,15 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-	<title>PolitiScales - Quiz</title>
+	<title>PolitiScales - Kvíz</title>
 	<link rel="icon" type="image/png" sizes="16x16" href="../images/Politiscales-icone1.png">
 	<link rel="stylesheet" href="../style.css" type="text/css" media="screen" />
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<script type="application/javascript" src="questions.js"></script>
-	<meta property="og:title" content="PolitiScales quiz" />
-	<meta property="og:locale" content="fr_FR" />
-	<meta property="og:description" content="PolitiScales est un test politique utilisant 8 axes idéologiques pour vous aider à vos situer politiquement, ou simplement partager votre profil avec vos amis." />
+	<meta property="og:title" content="PolitiScales Kvíz" />
+	<meta property="og:locale" content="hu" />
+	<meta property="og:description" content="A PolitiScales egy 8 ideológiai tengelyt használó politikai teszt, amely segít Önnek abban, hogy politikailag elhelyezze magát, vagy egyszerűen csak megossza profilját barátaival." />
 
 </head>
 <body>
@@ -27,23 +27,23 @@
 <div id="content">
 	<div id="mainFrame">
 
-		<h2 id="question-number">Chargement...</h2>
+		<h2 id="question-number">Betöltés...</h2>
 		<div class="questionBox">
 			<div>
-				<p id="question-text">Vous allez être confronté à une série d'affirmations. Pour chacune d'elles, cliquez sur le bouton correspondant à votre opinion.</p>
+				<p id="question-text">Egy sor nyilatkozatot fog kapni. Mindegyiknél kattintson a véleményének megfelelő gombra.</p>
 			</div>
 		</div>
 		<div class="navButtons">
-			<button class="buttonQuestion" onclick="next_question(1)" style="background-color: #1b5e20;">Absolument d'accord</button>
-			<button class="buttonQuestion" onclick="next_question(2/3)" style="background-color: #4caf50;">Plutôt d'accord</button>
-			<button class="buttonQuestion" onclick="next_question(0)" style="background-color: #bbbbbb;">Neutre ou hésitant</button>
-			<button class="buttonQuestion" onclick="next_question(-2/3)" style="background-color: #f44336;">Plutôt pas d'accord</button>
-			<button class="buttonQuestion" onclick="next_question(-1)" style="background-color: #b71c1c;">Absolument pas d'accord</button>
+			<button class="buttonQuestion" onclick="next_question(1)" style="background-color: #1b5e20;">Teljesen egyetértek</button>
+			<button class="buttonQuestion" onclick="next_question(2/3)" style="background-color: #4caf50;">Valamennyire egyetértek</button>
+			<button class="buttonQuestion" onclick="next_question(0)" style="background-color: #bbbbbb;">Semleges vagy tétova</button>
+			<button class="buttonQuestion" onclick="next_question(-2/3)" style="background-color: #f44336;">Valamennyire nem ért egyet</button>
+			<button class="buttonQuestion" onclick="next_question(-1)" style="background-color: #b71c1c;">Abszolút nem</button>
 		</div>
 
 		<div class="navButtons">
-			<button class="button" onclick="prev_question()" id="back_button">Retour à la question précédente</button>
-			<button class="button" onclick="location.href='index.html';" id="back_button_off">Retour à l'accueil</button>
+			<button class="button" onclick="prev_question()" id="back_button">Visszatérve az előző kérdésre</button>
+			<button class="button" onclick="location.href='index.html';" id="back_button_off">Vissza a főoldalra</button>
 		</div>
 
 	</div>
@@ -72,7 +72,7 @@ init_question();
 function init_question()
 {
 	document.getElementById("question-text").innerHTML = questions[qn].question;
-	document.getElementById("question-number").innerHTML = "Question " + (qn + 1) + " sur " + (questions.length);
+	document.getElementById("question-number").innerHTML = "Kérdés " + (qn + 1) + " az " + (questions.length) + "-ből";
 	if (qn == 0)
 	{
 		document.getElementById("back_button").style.display = 'none';
