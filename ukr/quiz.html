@@ -3,15 +3,15 @@
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-	<title>PolitiScales - Quiz</title>
+	<title>PolitiScales - Вікторина</title>
 	<link rel="icon" type="image/png" sizes="16x16" href="../images/Politiscales-icone1.png">
 	<link rel="stylesheet" href="../style.css" type="text/css" media="screen" />
 	<link rel="stylesheet" href="text.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<script type="application/javascript" src="questions.js"></script>
-	<meta property="og:title" content="PolitiScales quiz" />
-	<meta property="og:locale" content="en" />
-	<meta property="og:description" content="PolitiScales is a political test using 8 ideological axes to help you situate yourself politically, or simply share your profile with your friends." />
+	<meta property="og:title" content="PolitiScales вікторина" />
+	<meta property="og:locale" content="uk" />
+	<meta property="og:description" content="PolitiScales — це політичний тест, який використовує 8 ідеологічних осей, щоб допомогти вам визначити себе політично або просто поділитися своїм профілем з друзями." />
 
 </head>
 <body>
@@ -27,23 +27,23 @@
 <div id="content">
 	<div id="mainFrame">
 
-		<h2 id="question-number">Loading...</h2>
+		<h2 id="question-number">Завантаження...</h2>
 		<div class="questionBox">
 			<div>
-				<p id="question-text">You will be presented with a series of statements. For each one, click on the button corresponding to your opinion.</p>
+				<p id="question-text">Ви зіткнетеся з низкою заяв. Для кожного з них натисніть кнопку, що відповідає вашій думці.</p>
 			</div>
 		</div>
 		<div class="navButtons">
-			<button class="buttonQuestion" onclick="next_question(1)" style="background-color: #1b5e20;">Absolutely agree</button>
-			<button class="buttonQuestion" onclick="next_question(2/3)" style="background-color: #4caf50;">Somewhat agree</button>
-			<button class="buttonQuestion" onclick="next_question(0)" style="background-color: #bbbbbb;">Neutral or hesitant</button>
-			<button class="buttonQuestion" onclick="next_question(-2/3)" style="background-color: #f44336;">Somewhat disagree</button>
-			<button class="buttonQuestion" onclick="next_question(-1)" style="background-color: #b71c1c;">Absolutely not agree</button>
+			<button class="buttonQuestion" onclick="next_question(1)" style="background-color: #1b5e20;">Абсолютно згоден</button>
+			<button class="buttonQuestion" onclick="next_question(2/3)" style="background-color: #4caf50;">Дещо згоден</button>
+			<button class="buttonQuestion" onclick="next_question(0)" style="background-color: #bbbbbb;">Нейтральний або нерішучий</button>
+			<button class="buttonQuestion" onclick="next_question(-2/3)" style="background-color: #f44336;">Скоріше не згоден</button>
+			<button class="buttonQuestion" onclick="next_question(-1)" style="background-color: #b71c1c;">Абсолютно не згоден</button>
 		</div>
 
 		<div class="navButtons">
-			<button class="button" onclick="prev_question()" id="back_button">Back to the previous question</button>
-			<button class="button" onclick="location.href='index.html';" id="back_button_off">Back to home page</button>
+			<button class="button" onclick="prev_question()" id="back_button">Повернутися до попереднього питання</button>
+			<button class="button" onclick="location.href='index.html';" id="back_button_off">Назад додому</button>
 		</div>
 
 	</div>
@@ -72,7 +72,7 @@ init_question();
 function init_question()
 {
 	document.getElementById("question-text").innerHTML = questions[qn].question;
-	document.getElementById("question-number").innerHTML = "Question " + (qn + 1) + " of " + (questions.length);
+	document.getElementById("question-number").innerHTML = "Питання " + (qn + 1) + " з " + (questions.length);
 	if (qn == 0)
 	{
 		document.getElementById("back_button").style.display = 'none';
