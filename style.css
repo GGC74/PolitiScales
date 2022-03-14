@@ -3,7 +3,6 @@ body
 	margin: 0;
 	font-family: Montserrat;
 }
-
 #header
 {
 	position:fixed;
@@ -18,7 +17,6 @@ body
 	
 	text-align: center;
 }
-
 .headerLeft
 {
 	width: 15vmin;
@@ -27,13 +25,11 @@ body
 	text-align:left;
 	padding-left:2vmin;
 }
-
 .headerMiddle
 {
 	width: calc(100% - 34vmin);
 	display:inline-block;
 }
-
 .headerRight
 {
 	width: 15vmin;
@@ -42,7 +38,6 @@ body
 	text-align:right;
 	padding-right:2vmin;
 }
-
 #header h1
 {
 	margin:0;
@@ -50,13 +45,11 @@ body
 	vertical-align:middle;
 	font-size: 5vmin;
 }
-
 #header a
 {
 	color: white;
 	text-decoration: none;
 }
-
 #mainFrame
 {
 	background-color: #ebebeb;
@@ -65,12 +58,10 @@ body
 	padding-bottom: 2vmin;
 	border-radius: 1vmin;
 }
-
 #content
 {
 	padding-top: 3em;
 }
-
 #footer
 {
 	font-size: 1.8vmin;
@@ -79,20 +70,17 @@ body
 	border-top: #C5C5C5 0.2vmin solid;
 	margin-top: 6vmin;
 }
-
 hr
 {
 	border-top: #C5C5C5 0.2vmin solid;
 	margin-top: 4vmin;
 	margin-bottom: 5vmin;
 }
-
 a
 {
 	color:#464646;
 	text-decoration: underline;
 }
-
 h2
 {
 	font-size: 3vmin;
@@ -100,7 +88,6 @@ h2
 	padding:2vmin;
 	margin:0;
 }
-
 .simpleText
 {
 	text-align: center;
@@ -109,7 +96,6 @@ h2
 	padding-left:2vmin;
 	padding-right:2vmin;
 }
-
 .columnContainer
 {
 	position: relative;
@@ -136,7 +122,6 @@ h2
 		width: 50%;
 	}
 }
-
 .axisEnd
 {
 	display: inline-block;
@@ -364,7 +349,6 @@ h2
 	width:15vmin;
 	height: 15vmin;
 }
-
 .navButtons
 {
 	margin-top:5vmin;
@@ -373,7 +357,6 @@ h2
 	margin-right:auto;
 	width:40vmin;
 }
-
 .buttonQuestion, .button
 {
 	text-align: center;
@@ -399,18 +382,15 @@ h2
 	background-color: white;
 	color: #500076;
 }
-
 .button
 {
 	background-color: #500076;
 	color: white;
 }
-
 .buttonQuestion
 {
 	color: white;
 }
-
 .flagDecoration
 {
 	text-align:center;
